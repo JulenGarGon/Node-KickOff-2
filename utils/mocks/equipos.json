@@ -1,0 +1,4038 @@
+[
+    {
+        "id": 1,
+        "team": "Real Sociedad",
+        "league": "Primera División de España 2023/24",
+        "stadium": {
+            "name": "Reale Arena",
+            "capacity": 39879
+        },
+        "coach": {
+            "name": "Imanol Alguacil",
+            "birth_year": 1971,
+            "nationality": "ESP"
+        },
+        "badge_url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/Real_Sociedad_logo.svg/800px-Real_Sociedad_logo.svg.png",
+        "players": [
+            {
+                "number": 1,
+                "name": "Alejandro Remiro",
+                "position": "GK",
+                "birth_year": 1995,
+                "previous_club": "Athletic Bilbao",
+                "nationality": "ESP"
+            },
+            {
+                "number": 13,
+                "name": "Unai Marrero",
+                "position": "GK",
+                "birth_year": 2001,
+                "previous_club": "Real Sociedad B",
+                "nationality": "ESP"
+            },
+            {
+                "number": 30,
+                "name": "Gaizka Ayesa",
+                "position": "GK",
+                "birth_year": 2001,
+                "previous_club": "Real Sociedad B",
+                "nationality": "ESP"
+            },
+            {
+                "number": 37,
+                "name": "Aitor Fraga",
+                "position": "GK",
+                "birth_year": 2003,
+                "previous_club": "Real Sociedad B",
+                "nationality": "ESP"
+            },
+            {
+                "number": 2,
+                "name": "Álvaro Odriozola",
+                "position": "DF",
+                "birth_year": 1995,
+                "previous_club": "Real Madrid",
+                "nationality": "ESP"
+            },
+            {
+                "number": 3,
+                "name": "Aihen Muñoz",
+                "position": "DF",
+                "birth_year": 1997,
+                "previous_club": "Real Sociedad B",
+                "nationality": "ESP"
+            },
+            {
+                "number": 5,
+                "name": "Igor Zubeldia",
+                "position": "DF",
+                "birth_year": 1997,
+                "previous_club": "Real Sociedad B",
+                "nationality": "ESP"
+            },
+            {
+                "number": 6,
+                "name": "Aritz Elustondo",
+                "position": "DF",
+                "birth_year": 1994,
+                "previous_club": "Real Sociedad B",
+                "nationality": "ESP"
+            },
+            {
+                "number": 15,
+                "name": "Urko González de Zárate",
+                "position": "DF",
+                "birth_year": 2001,
+                "previous_club": "Real Sociedad B",
+                "nationality": "ESP"
+            },
+            {
+                "number": 17,
+                "name": "Kieran Tierney",
+                "position": "DF",
+                "birth_year": 1997,
+                "previous_club": "Arsenal",
+                "nationality": "SCO"
+            },
+            {
+                "number": 18,
+                "name": "Hamary Traoré",
+                "position": "DF",
+                "birth_year": 1992,
+                "previous_club": "Rennes",
+                "nationality": "MLI"
+            },
+            {
+                "number": 20,
+                "name": "Jon Pacheco",
+                "position": "DF",
+                "birth_year": 2001,
+                "previous_club": "Real Sociedad B",
+                "nationality": "ESP"
+            },
+            {
+                "number": 24,
+                "name": "Robin Le Normand",
+                "position": "DF",
+                "birth_year": 1996,
+                "previous_club": "Brest",
+                "nationality": "FRA"
+            },
+            {
+                "number": 25,
+                "name": "Javi Galán",
+                "position": "DF",
+                "birth_year": 1994,
+                "previous_club": "Atlético Madrid",
+                "nationality": "ESP"
+            },
+            {
+                "number": 33,
+                "name": "Eneko Astigarraga",
+                "position": "DF",
+                "birth_year": 2004,
+                "previous_club": "Real Sociedad B",
+                "nationality": "ESP"
+            },
+            {
+                "number": 36,
+                "name": "Jon Martín",
+                "position": "DF",
+                "birth_year": 2006,
+                "previous_club": "Real Sociedad B",
+                "nationality": "ESP"
+            },
+            {
+                "number": 39,
+                "name": "Jon Mikel Aramburu",
+                "position": "DF",
+                "birth_year": 2002,
+                "previous_club": "Real Unión",
+                "nationality": "VEN"
+            },
+            {
+                "number": 41,
+                "name": "Iñaki Rupérez",
+                "position": "DF",
+                "birth_year": 2003,
+                "previous_club": "Real Sociedad B",
+                "nationality": "ESP"
+            },
+            {
+                "number": 4,
+                "name": "Martín Zubimendi",
+                "position": "MF",
+                "birth_year": 1999,
+                "previous_club": "Real Sociedad B",
+                "nationality": "ESP"
+            },
+            {
+                "number": 8,
+                "name": "Mikel Merino",
+                "position": "MF",
+                "birth_year": 1996,
+                "previous_club": "Newcastle U",
+                "nationality": "ESP"
+            },
+            {
+                "number": 10,
+                "name": "Mikel Oyarzabal",
+                "position": "MF",
+                "birth_year": 1997,
+                "previous_club": "Real Sociedad B",
+                "nationality": "ESP"
+            },
+            {
+                "number": 12,
+                "name": "Arsen Zakharyan",
+                "position": "MF",
+                "birth_year": 2003,
+                "previous_club": "Dynamo Moscow",
+                "nationality": "RUS"
+            },
+            {
+                "number": 14,
+                "name": "Takefusa Kubo",
+                "position": "MF",
+                "birth_year": 2001,
+                "previous_club": "Real Madrid",
+                "nationality": "JPN"
+            },
+            {
+                "number": 16,
+                "name": "Jon Ander Olasagasti",
+                "position": "MF",
+                "birth_year": 2000,
+                "previous_club": "Real Sociedad B",
+                "nationality": "ESP"
+            },
+            {
+                "number": 22,
+                "name": "Beñat Turrientes",
+                "position": "MF",
+                "birth_year": 2002,
+                "previous_club": "Real Sociedad B",
+                "nationality": "ESP"
+            },
+            {
+                "number": 28,
+                "name": "Jon Magunazelaia",
+                "position": "MF",
+                "birth_year": 2001,
+                "previous_club": "Real Sociedad B",
+                "nationality": "ESP"
+            },
+            {
+                "number": 29,
+                "name": "Pablo Marín",
+                "position": "MF",
+                "birth_year": 2003,
+                "previous_club": "Real Sociedad B",
+                "nationality": "ESP"
+            },
+            {
+                "number": 34,
+                "name": "Jon Gorrotxategi",
+                "position": "MF",
+                "birth_year": 2002,
+                "previous_club": "Real Sociedad B",
+                "nationality": "ESP"
+            },
+            {
+                "number": 35,
+                "name": "Alex Lebarbier",
+                "position": "MF",
+                "birth_year": 2004,
+                "previous_club": "Real Sociedad B",
+                "nationality": "FRA"
+            },
+            {
+                "number": 38,
+                "name": "Alberto Dadie",
+                "position": "MF",
+                "birth_year": 2002,
+                "previous_club": "Real Sociedad B",
+                "nationality": "ESP"
+            },
+            {
+                "number": 7,
+                "name": "Ander Barrenetxea",
+                "position": "FW",
+                "birth_year": 2001,
+                "previous_club": "Real Sociedad B",
+                "nationality": "ESP"
+            },
+            {
+                "number": 9,
+                "name": "Carlos Fernández",
+                "position": "FW",
+                "birth_year": 1996,
+                "previous_club": "Sevilla",
+                "nationality": "ESP"
+            },
+            {
+                "number": 11,
+                "name": "Sheraldo Becker",
+                "position": "FW",
+                "birth_year": 1995,
+                "previous_club": "Union Berlin",
+                "nationality": "NED"
+            },
+            {
+                "number": 19,
+                "name": "Umar Sadiq",
+                "position": "FW",
+                "birth_year": 1997,
+                "previous_club": "Almería",
+                "nationality": "NGA"
+            },
+            {
+                "number": 21,
+                "name": "André Silva",
+                "position": "FW",
+                "birth_year": 1995,
+                "previous_club": "RB Leipzig",
+                "nationality": "POR"
+            },
+            {
+                "number": 23,
+                "name": "Brais Méndez",
+                "position": "FW",
+                "birth_year": 1997,
+                "previous_club": "Celta Vigo",
+                "nationality": "ESP"
+            },
+            {
+                "number": 40,
+                "name": "Bryan Fiabema",
+                "position": "FW",
+                "birth_year": 2003,
+                "previous_club": "Chelsea",
+                "nationality": "NOR"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "team": "Atlético de Madrid",
+        "league": "Primera División de España 2023/24",
+        "stadium": {
+            "name": "Cívitas Metropolitano",
+            "capacity": 68456
+        },
+        "coach": {
+            "name": "Diego Si Meon",
+            "birth_year": 1970,
+            "nationality": "ARG"
+        },
+        "badge_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzxwNLfRkZg7U2FdpxT9QYygjG-B5yu2tmPytgQCInWh0LTZBcgk2E2eLbabAbhc-N0dow09ICfefmRGOwahKGt8oNSrlGSocH6Rm4oCdfYwvm-2Xafp5t1hV3fhOpyRYZTxx2ppoIQMSoiv0HUf_ptj_mrW_U6NnaKehJM0AmokvOc-my-DtobEI3MW4/s256/Club%20Atl%C3%A9tico%20de%20Madrid256x.png",
+        "players": [
+            {
+                "number": 1,
+                "name": "Horaţiu Moldovan",
+                "position": "GK",
+                "birth_year": 1998,
+                "previous_club": "Rapid București",
+                "nationality": "ROU"
+            },
+            {
+                "number": 13,
+                "name": "Jan Oblak",
+                "position": "GK",
+                "birth_year": 1993,
+                "previous_club": "Benfica",
+                "nationality": "SVN"
+            },
+            {
+                "number": 31,
+                "name": "Antonio Gomis",
+                "position": "GK",
+                "birth_year": 2003,
+                "previous_club": "Atlético Madrid B",
+                "nationality": "ESP"
+            },
+            {
+                "number": 33,
+                "name": "Alejandro Iturbe",
+                "position": "GK",
+                "birth_year": 2003,
+                "previous_club": "Atlético Madrid B",
+                "nationality": "ESP"
+            },
+            {
+                "number": 35,
+                "name": "Sergio Mestre",
+                "position": "GK",
+                "birth_year": 2005,
+                "previous_club": "Atlético Madrid B",
+                "nationality": "ESP"
+            },
+            {
+                "number": 51,
+                "name": "Salvi Esquivel",
+                "position": "GK",
+                "birth_year": 2005,
+                "previous_club": "Atlético Madrid B",
+                "nationality": "ESP"
+            },
+            {
+                "number": 2,
+                "name": "José Giménez",
+                "position": "DF",
+                "birth_year": 1995,
+                "previous_club": "Danubio",
+                "nationality": "URU"
+            },
+            {
+                "number": 3,
+                "name": "César Azpilicueta",
+                "position": "DF",
+                "birth_year": 1989,
+                "previous_club": "Chelsea",
+                "nationality": "ESP"
+            },
+            {
+                "number": 4,
+                "name": "Gabriel Paulista",
+                "position": "DF",
+                "birth_year": 1990,
+                "previous_club": "Valencia",
+                "nationality": "BRA"
+            },
+            {
+                "number": 15,
+                "name": "Stefan Savić",
+                "position": "DF",
+                "birth_year": 1991,
+                "previous_club": "Fiorentina",
+                "nationality": "MNE"
+            },
+            {
+                "number": 16,
+                "name": "Nahuel Molina",
+                "position": "DF",
+                "birth_year": 1997,
+                "previous_club": "Udinese",
+                "nationality": "ARG"
+            },
+            {
+                "number": 22,
+                "name": "Mario Hermoso",
+                "position": "DF",
+                "birth_year": 1995,
+                "previous_club": "Espanyol",
+                "nationality": "ESP"
+            },
+            {
+                "number": 23,
+                "name": "Reinildo Mandava",
+                "position": "DF",
+                "birth_year": 1994,
+                "previous_club": "Lille",
+                "nationality": "MOZ"
+            },
+            {
+                "number": 27,
+                "name": "Ilias Kostis",
+                "position": "DF",
+                "birth_year": 2003,
+                "previous_club": "APOEL",
+                "nationality": "GRE"
+            },
+            {
+                "number": 5,
+                "name": "Rodrigo De Paul",
+                "position": "MF",
+                "birth_year": 1994,
+                "previous_club": "Udinese",
+                "nationality": "ARG"
+            },
+            {
+                "number": 6,
+                "name": "Koke",
+                "position": "MF",
+                "birth_year": 1992,
+                "previous_club": "Atlético Madrid B",
+                "nationality": "ESP"
+            },
+            {
+                "number": 8,
+                "name": "Saúl Ñiguez",
+                "position": "MF",
+                "birth_year": 1994,
+                "previous_club": "Atlético Madrid B",
+                "nationality": "ESP"
+            },
+            {
+                "number": 11,
+                "name": "Thomas Lemar",
+                "position": "MF",
+                "birth_year": 1995,
+                "previous_club": "Monaco",
+                "nationality": "FRA"
+            },
+            {
+                "number": 14,
+                "name": "Marcos Llorente",
+                "position": "MF",
+                "birth_year": 1995,
+                "previous_club": "Real Madrid",
+                "nationality": "ESP"
+            },
+            {
+                "number": 18,
+                "name": "Arthur Vermeeren",
+                "position": "MF",
+                "birth_year": 2005,
+                "previous_club": "Royal Antwerp",
+                "nationality": "BEL"
+            },
+            {
+                "number": 20,
+                "name": "Axel Witsel",
+                "position": "MF",
+                "birth_year": 1989,
+                "previous_club": "Borussia Dortmund",
+                "nationality": "BEL"
+            },
+            {
+                "number": 24,
+                "name": "Pablo Barrios",
+                "position": "MF",
+                "birth_year": 2003,
+                "previous_club": "Atlético Madrid B",
+                "nationality": "ESP"
+            },
+            {
+                "number": 7,
+                "name": "Antoine Griezmann",
+                "position": "FW",
+                "birth_year": 1991,
+                "previous_club": "Barcelona",
+                "nationality": "FRA"
+            },
+            {
+                "number": 9,
+                "name": "Memphis Depay",
+                "position": "FW",
+                "birth_year": 1994,
+                "previous_club": "Barcelona",
+                "nationality": "NED"
+            },
+            {
+                "number": 10,
+                "name": "Ángel Correa",
+                "position": "FW",
+                "birth_year": 1995,
+                "previous_club": "San Lorenzo",
+                "nationality": "ARG"
+            },
+            {
+                "number": 12,
+                "name": "Samuel Lino",
+                "position": "FW",
+                "birth_year": 1999,
+                "previous_club": "Gil Vicente",
+                "nationality": "BRA"
+            },
+            {
+                "number": 17,
+                "name": "Rodrigo Riquelme",
+                "position": "FW",
+                "birth_year": 2000,
+                "previous_club": "Atlético Madrid B",
+                "nationality": "ESP"
+            },
+            {
+                "number": 19,
+                "name": "Álvaro Morata",
+                "position": "FW",
+                "birth_year": 1992,
+                "previous_club": "Chelsea",
+                "nationality": "ESP"
+            },
+            {
+                "number": 30,
+                "name": "Salim El Jebari",
+                "position": "FW",
+                "birth_year": 2004,
+                "previous_club": "Atlético Madrid B",
+                "nationality": "ESP"
+            },
+            {
+                "number": 39,
+                "name": "Abde Raihani",
+                "position": "FW",
+                "birth_year": 2004,
+                "previous_club": "Damm",
+                "nationality": "MAR"
+            },
+            {
+                "number": 45,
+                "name": "Rayane Belaid",
+                "position": "FW",
+                "birth_year": 2005,
+                "previous_club": "Atlético Madrid B",
+                "nationality": "ALG"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "team": "CA Osasuna",
+        "league": "Primera División de España 2023/24",
+        "stadium": {
+            "name": "El Sadar",
+            "capacity": 23516
+        },
+        "coach": {
+            "name": "Jagoba Arrasate",
+            "birth_year": 1978,
+            "nationality": "ESP"
+        },
+        "badge_url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/38/CA_Osasuna_2024_crest.svg/1200px-CA_Osasuna_2024_crest.svg.png",
+        "players": [
+            {
+                "number": 1,
+                "name": "Sergio Herrera",
+                "position": "GK",
+                "birth_year": 1993,
+                "previous_club": "Huesca",
+                "nationality": "ESP"
+            },
+            {
+                "number": 13,
+                "name": "Aitor Fernández",
+                "position": "GK",
+                "birth_year": 1991,
+                "previous_club": "Levante",
+                "nationality": "ESP"
+            },
+            {
+                "number": 31,
+                "name": "Pablo Valencia",
+                "position": "GK",
+                "birth_year": 2001,
+                "previous_club": "Osasuna B",
+                "nationality": "ESP"
+            },
+            {
+                "number": 32,
+                "name": "Dimitrios Stamatakis",
+                "position": "GK",
+                "birth_year": 2003,
+                "previous_club": "Atlético Madrid B",
+                "nationality": "GRE"
+            },
+            {
+                "number": 3,
+                "name": "Juan Cruz",
+                "position": "DF",
+                "birth_year": 1992,
+                "previous_club": "Elche",
+                "nationality": "ESP"
+            },
+            {
+                "number": 4,
+                "name": "Unai García",
+                "position": "DF",
+                "birth_year": 1992,
+                "previous_club": "Osasuna B",
+                "nationality": "ESP"
+            },
+            {
+                "number": 5,
+                "name": "David García",
+                "position": "DF",
+                "birth_year": 1994,
+                "previous_club": "Osasuna B",
+                "nationality": "ESP"
+            },
+            {
+                "number": 12,
+                "name": "Jesús Areso",
+                "position": "DF",
+                "birth_year": 1999,
+                "previous_club": "Athletic Bilbao B",
+                "nationality": "ESP"
+            },
+            {
+                "number": 15,
+                "name": "Rubén Peña",
+                "position": "DF",
+                "birth_year": 1991,
+                "previous_club": "Villarreal",
+                "nationality": "ESP"
+            },
+            {
+                "number": 22,
+                "name": "Johan Mojica",
+                "position": "DF",
+                "birth_year": 1992,
+                "previous_club": "Villarreal",
+                "nationality": "COL"
+            },
+            {
+                "number": 24,
+                "name": "Alejandro Catena",
+                "position": "DF",
+                "birth_year": 1994,
+                "previous_club": "Rayo Vallecano",
+                "nationality": "ESP"
+            },
+            {
+                "number": 28,
+                "name": "Jorge Herrando",
+                "position": "DF",
+                "birth_year": 2001,
+                "previous_club": "Osasuna B",
+                "nationality": "ESP"
+            },
+            {
+                "number": 6,
+                "name": "Lucas Torró",
+                "position": "MF",
+                "birth_year": 1994,
+                "previous_club": "Eintracht Frankfurt",
+                "nationality": "ESP"
+            },
+            {
+                "number": 7,
+                "name": "Jon Moncayola",
+                "position": "MF",
+                "birth_year": 1998,
+                "previous_club": "Osasuna B",
+                "nationality": "ESP"
+            },
+            {
+                "number": 10,
+                "name": "Aimar Oroz",
+                "position": "MF",
+                "birth_year": 2001,
+                "previous_club": "Osasuna B",
+                "nationality": "ESP"
+            },
+            {
+                "number": 11,
+                "name": "Kike Barja",
+                "position": "MF",
+                "birth_year": 1997,
+                "previous_club": "Osasuna B",
+                "nationality": "ESP"
+            },
+            {
+                "number": 14,
+                "name": "Rubén García",
+                "position": "MF",
+                "birth_year": 1993,
+                "previous_club": "Levante",
+                "nationality": "ESP"
+            },
+            {
+                "number": 16,
+                "name": "Moi Gómez",
+                "position": "MF",
+                "birth_year": 1994,
+                "previous_club": "Villarreal",
+                "nationality": "ESP"
+            },
+            {
+                "number": 19,
+                "name": "Pablo Ibáñez",
+                "position": "MF",
+                "birth_year": 1998,
+                "previous_club": "Mutilvera",
+                "nationality": "ESP"
+            },
+            {
+                "number": 17,
+                "name": "Ante Budimir",
+                "position": "FW",
+                "birth_year": 1991,
+                "previous_club": "Mallorca",
+                "nationality": "CRO"
+            },
+            {
+                "number": 20,
+                "name": "José Arnáiz",
+                "position": "FW",
+                "birth_year": 1995,
+                "previous_club": "Leganés",
+                "nationality": "ESP"
+            },
+            {
+                "number": 23,
+                "name": "Raúl García",
+                "position": "FW",
+                "birth_year": 2000,
+                "previous_club": "Betis B",
+                "nationality": "ESP"
+            },
+            {
+                "number": 43,
+                "name": "Max Svensson",
+                "position": "FW",
+                "birth_year": 2001,
+                "previous_club": "Espanyol B",
+                "nationality": "ESP"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "team": "Deportivo Alavés",
+        "league": "Primera División de España 2023/24",
+        "stadium": {
+            "name": "Mendizorroza",
+            "capacity": 19840
+        },
+        "coach": {
+            "name": "Luis García Plaza",
+            "birth_year": 1972,
+            "nationality": "ESP"
+        },
+        "badge_url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Deportivo_Alaves_logo_%282020%29.svg/1200px-Deportivo_Alaves_logo_%282020%29.svg.png",
+        "players": [
+            {
+                "number": 1,
+                "name": "Antonio Sivera",
+                "position": "GK",
+                "birth_year": 1996,
+                "previous_club": "Valencia B",
+                "nationality": "ESP"
+            },
+            {
+                "number": 31,
+                "name": "Jesús Owono",
+                "position": "GK",
+                "birth_year": 2001,
+                "previous_club": "San Ignacio",
+                "nationality": "EQG"
+            },
+            {
+                "number": 33,
+                "name": "Adrián Rodríguez",
+                "position": "GK",
+                "birth_year": 2000,
+                "previous_club": "Real Madrid B",
+                "nationality": "ARG"
+            },
+            {
+                "number": 2,
+                "name": "Andoni Gorosabel",
+                "position": "DF",
+                "birth_year": 1996,
+                "previous_club": "Real Sociedad",
+                "nationality": "ESP"
+            },
+            {
+                "number": 3,
+                "name": "Rubén Duarte",
+                "position": "DF",
+                "birth_year": 1995,
+                "previous_club": "Espanyol",
+                "nationality": "ESP"
+            },
+            {
+                "number": 4,
+                "name": "Aleksandar Sedlar",
+                "position": "DF",
+                "birth_year": 1991,
+                "previous_club": "Mallorca",
+                "nationality": "SRB"
+            },
+            {
+                "number": 5,
+                "name": "Abdelkabir Abqar",
+                "position": "DF",
+                "birth_year": 1999,
+                "previous_club": "Málaga B",
+                "nationality": "MAR"
+            },
+            {
+                "number": 14,
+                "name": "Nahuel Tenaglia",
+                "position": "DF",
+                "birth_year": 1996,
+                "previous_club": "Talleres (Córdoba)",
+                "nationality": "ARG"
+            },
+            {
+                "number": 16,
+                "name": "Rafa Marín",
+                "position": "DF",
+                "birth_year": 2002,
+                "previous_club": "Real Madrid B",
+                "nationality": "ESP"
+            },
+            {
+                "number": 6,
+                "name": "Ander Guevara",
+                "position": "MF",
+                "birth_year": 1997,
+                "previous_club": "Real Sociedad",
+                "nationality": "ESP"
+            },
+            {
+                "number": 8,
+                "name": "Antonio Blanco",
+                "position": "MF",
+                "birth_year": 2000,
+                "previous_club": "Real Madrid B",
+                "nationality": "ESP"
+            },
+            {
+                "number": 10,
+                "name": "Ianis Hagi",
+                "position": "MF",
+                "birth_year": 1998,
+                "previous_club": "Rangers",
+                "nationality": "ROU"
+            },
+            {
+                "number": 11,
+                "name": "Luis Rioja",
+                "position": "MF",
+                "birth_year": 1993,
+                "previous_club": "Almería",
+                "nationality": "ESP"
+            },
+            {
+                "number": 17,
+                "name": "Xeber Alkain",
+                "position": "MF",
+                "birth_year": 1997,
+                "previous_club": "Real Sociedad B",
+                "nationality": "ESP"
+            },
+            {
+                "number": 23,
+                "name": "Carlos Benavidez",
+                "position": "MF",
+                "birth_year": 1998,
+                "previous_club": "Independiente",
+                "nationality": "URU"
+            },
+            {
+                "number": 15,
+                "name": "Kike",
+                "position": "FW",
+                "birth_year": 1989,
+                "previous_club": "Osasuna",
+                "nationality": "ESP"
+            },
+            {
+                "number": 20,
+                "name": "Giuliano Simeone",
+                "position": "FW",
+                "birth_year": 2002,
+                "previous_club": "Atlético Madrid B",
+                "nationality": "ARG"
+            },
+            {
+                "number": 21,
+                "name": "Abde Rebbach",
+                "position": "FW",
+                "birth_year": 1998,
+                "previous_club": "San Ignacio",
+                "nationality": "ALG"
+            },
+            {
+                "number": 32,
+                "name": "Samu Omorodion",
+                "position": "FW",
+                "birth_year": 2004,
+                "previous_club": "Atlético Madrid B",
+                "nationality": "ESP"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "team": "UD Almería",
+        "league": "Primera División de España 2023/24",
+        "stadium": {
+            "name": "Power Horse Stadium",
+            "capacity": 15200
+        },
+        "coach": {
+            "name": "Gaizka Garitano",
+            "birth_year": 1975,
+            "nationality": "ESP"
+        },
+        "badge_url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/UD_Almeria_logo.svg/1514px-UD_Almeria_logo.svg.png",
+        "players": [
+            {
+                "number": 1,
+                "name": "Diego Mariño",
+                "position": "GK",
+                "birth_year": 1990,
+                "previous_club": "Sporting Gijón",
+                "nationality": "ESP"
+            },
+            {
+                "number": 13,
+                "name": "Fernando",
+                "position": "GK",
+                "birth_year": 1990,
+                "previous_club": "UCAM Murcia",
+                "nationality": "ESP"
+            },
+            {
+                "number": 25,
+                "name": "Luís Maximiano",
+                "position": "GK",
+                "birth_year": 1999,
+                "previous_club": "Lazio",
+                "nationality": "POR"
+            },
+            {
+                "number": 3,
+                "name": "Edgar",
+                "position": "DF",
+                "birth_year": 1997,
+                "previous_club": "Betis",
+                "nationality": "ESP"
+            },
+            {
+                "number": 16,
+                "name": "Aleksandar Radovanović",
+                "position": "DF",
+                "birth_year": 1993,
+                "previous_club": "Kortrijk",
+                "nationality": "SRB"
+            },
+            {
+                "number": 17,
+                "name": "Álex Pozo",
+                "position": "DF",
+                "birth_year": 1999,
+                "previous_club": "Sevilla",
+                "nationality": "ESP"
+            },
+            {
+                "number": 18,
+                "name": "Marc Pubill",
+                "position": "DF",
+                "birth_year": 2003,
+                "previous_club": "Levante B",
+                "nationality": "ESP"
+            },
+            {
+                "number": 22,
+                "name": "César Montes",
+                "position": "DF",
+                "birth_year": 1997,
+                "previous_club": "Espanyol",
+                "nationality": "MEX"
+            },
+            {
+                "number": 24,
+                "name": "Bruno Langa",
+                "position": "DF",
+                "birth_year": 1997,
+                "previous_club": "Chaves",
+                "nationality": "MOZ"
+            },
+            {
+                "number": 4,
+                "name": "Iddrisu Baba",
+                "position": "MF",
+                "birth_year": 1996,
+                "previous_club": "Mallorca",
+                "nationality": "GHA"
+            },
+            {
+                "number": 5,
+                "name": "Lucas Robertone",
+                "position": "MF",
+                "birth_year": 1997,
+                "previous_club": "Vélez Sarsfield",
+                "nationality": "ARG"
+            },
+            {
+                "number": 6,
+                "name": "Dion Lopy",
+                "position": "MF",
+                "birth_year": 2002,
+                "previous_club": "Reims",
+                "nationality": "SEN"
+            },
+            {
+                "number": 8,
+                "name": "Jonathan Viera",
+                "position": "MF",
+                "birth_year": 1989,
+                "previous_club": "Las Palmas",
+                "nationality": "ESP"
+            },
+            {
+                "number": 19,
+                "name": "Sergio Arribas",
+                "position": "MF",
+                "birth_year": 2001,
+                "previous_club": "Real Madrid B",
+                "nationality": "ESP"
+            },
+            {
+                "number": 38,
+                "name": "Luka Romero",
+                "position": "MF",
+                "birth_year": 2004,
+                "previous_club": "Milan",
+                "nationality": "ARG"
+            },
+            {
+                "number": 7,
+                "name": "Largie Ramazani",
+                "position": "FW",
+                "birth_year": 2001,
+                "previous_club": "Manchester U",
+                "nationality": "BEL"
+            },
+            {
+                "number": 9,
+                "name": "Luis Suárez",
+                "position": "FW",
+                "birth_year": 1997,
+                "previous_club": "Marseille",
+                "nationality": "COL"
+            },
+            {
+                "number": 10,
+                "name": "Adri Embarba",
+                "position": "FW",
+                "birth_year": 1992,
+                "previous_club": "Espanyol",
+                "nationality": "ESP"
+            },
+            {
+                "number": 12,
+                "name": "Léo Baptistão",
+                "position": "FW",
+                "birth_year": 1992,
+                "previous_club": "Santos",
+                "nationality": "BRA"
+            },
+            {
+                "number": 15,
+                "name": "Anthony Lozano",
+                "position": "FW",
+                "birth_year": 1993,
+                "previous_club": "Getafe",
+                "nationality": "HON"
+            },
+            {
+                "number": 23,
+                "name": "Ibrahima Koné",
+                "position": "FW",
+                "birth_year": 1999,
+                "previous_club": "Lorient",
+                "nationality": "MLI"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "team": "Athletic Club",
+        "league": "Primera División de España 2023/24",
+        "stadium": {
+            "name": "San Mamés",
+            "capacity": 53331
+        },
+        "coach": {
+            "name": "Ernesto Valverde",
+            "birth_year": 1964,
+            "nationality": "ESP"
+        },
+        "badge_url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/98/Club_Athletic_Bilbao_logo.svg/800px-Club_Athletic_Bilbao_logo.svg.png",
+        "players": [
+            {
+                "number": 1,
+                "name": "Unai Simón",
+                "position": "GK",
+                "birth_year": 1997,
+                "previous_club": "Athletic Bilbao B",
+                "nationality": "ESP"
+            },
+            {
+                "number": 13,
+                "name": "Julen Agirrezabala",
+                "position": "GK",
+                "birth_year": 2000,
+                "previous_club": "Athletic Bilbao B",
+                "nationality": "ESP"
+            },
+            {
+                "number": 26,
+                "name": "Álex Padilla",
+                "position": "GK",
+                "birth_year": 2003,
+                "previous_club": "Athletic Bilbao B",
+                "nationality": "ESP"
+            },
+            {
+                "number": 3,
+                "name": "Daniel Vivian",
+                "position": "DF",
+                "birth_year": 1999,
+                "previous_club": "Athletic Bilbao B",
+                "nationality": "ESP"
+            },
+            {
+                "number": 4,
+                "name": "Aitor Paredes",
+                "position": "DF",
+                "birth_year": 2000,
+                "previous_club": "Athletic Bilbao B",
+                "nationality": "ESP"
+            },
+            {
+                "number": 5,
+                "name": "Yeray",
+                "position": "DF",
+                "birth_year": 1995,
+                "previous_club": "Athletic Bilbao B",
+                "nationality": "ESP"
+            },
+            {
+                "number": 15,
+                "name": "Íñigo Lekue",
+                "position": "DF",
+                "birth_year": 1993,
+                "previous_club": "Athletic Bilbao B",
+                "nationality": "ESP"
+            },
+            {
+                "number": 17,
+                "name": "Yuri Berchiche",
+                "position": "DF",
+                "birth_year": 1990,
+                "previous_club": "Paris St-Germain",
+                "nationality": "ESP"
+            },
+            {
+                "number": 18,
+                "name": "Óscar de Marcos",
+                "position": "DF",
+                "birth_year": 1989,
+                "previous_club": "Alavés",
+                "nationality": "ESP"
+            },
+            {
+                "number": 6,
+                "name": "Mikel Vesga",
+                "position": "MF",
+                "birth_year": 1993,
+                "previous_club": "Alavés B",
+                "nationality": "ESP"
+            },
+            {
+                "number": 7,
+                "name": "Alex Berenguer",
+                "position": "MF",
+                "birth_year": 1995,
+                "previous_club": "Torino",
+                "nationality": "ESP"
+            },
+            {
+                "number": 8,
+                "name": "Oihan Sancet",
+                "position": "MF",
+                "birth_year": 2000,
+                "previous_club": "Athletic Bilbao B",
+                "nationality": "ESP"
+            },
+            {
+                "number": 14,
+                "name": "Dani García",
+                "position": "MF",
+                "birth_year": 1990,
+                "previous_club": "Eibar",
+                "nationality": "ESP"
+            },
+            {
+                "number": 16,
+                "name": "Iñigo Ruiz de Galarreta",
+                "position": "MF",
+                "birth_year": 1993,
+                "previous_club": "Mallorca",
+                "nationality": "ESP"
+            },
+            {
+                "number": 21,
+                "name": "Ander Herrera",
+                "position": "MF",
+                "birth_year": 1989,
+                "previous_club": "Paris St-Germain",
+                "nationality": "ESP"
+            },
+            {
+                "number": 22,
+                "name": "Raúl García",
+                "position": "MF",
+                "birth_year": 1986,
+                "previous_club": "Atlético Madrid",
+                "nationality": "ESP"
+            },
+            {
+                "number": 9,
+                "name": "Iñaki Williams",
+                "position": "FW",
+                "birth_year": 1994,
+                "previous_club": "Athletic Bilbao B",
+                "nationality": "GHA"
+            },
+            {
+                "number": 10,
+                "name": "Iker Muniain",
+                "position": "FW",
+                "birth_year": 1992,
+                "previous_club": "Athletic Bilbao B",
+                "nationality": "ESP"
+            },
+            {
+                "number": 11,
+                "name": "Nico Williams",
+                "position": "FW",
+                "birth_year": 2002,
+                "previous_club": "Athletic Bilbao B",
+                "nationality": "ESP"
+            },
+            {
+                "number": 12,
+                "name": "Gorka Guruzeta",
+                "position": "FW",
+                "birth_year": 1996,
+                "previous_club": "Amorebieta",
+                "nationality": "ESP"
+            },
+            {
+                "number": 20,
+                "name": "Asier Villalibre",
+                "position": "FW",
+                "birth_year": 1997,
+                "previous_club": "Basconia",
+                "nationality": "ESP"
+            },
+            {
+                "number": 23,
+                "name": "Malcom Adu Ares",
+                "position": "FW",
+                "birth_year": 2001,
+                "previous_club": "Athletic Bilbao B",
+                "nationality": "ESP"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "team": "FC Barcelona",
+        "league": "Primera División de España 2023/24",
+        "stadium": {
+            "name": "Estadi Olímpic Lluís Companys",
+            "capacity": 55926
+        },
+        "coach": {
+            "name": "Xavi Hernández",
+            "birth_year": 1980,
+            "nationality": "ESP"
+        },
+        "badge_url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/47/FC_Barcelona_%28crest%29.svg/800px-FC_Barcelona_%28crest%29.svg.png",
+        "players": [
+            {
+                "number": 1,
+                "name": "Marc-André ter Stegen",
+                "position": "GK",
+                "birth_year": 1992,
+                "previous_club": "B Mönchengladbach",
+                "nationality": "GER"
+            },
+            {
+                "number": 13,
+                "name": "Iñaki Peña",
+                "position": "GK",
+                "birth_year": 1999,
+                "previous_club": "Barcelona B",
+                "nationality": "ESP"
+            },
+            {
+                "number": 2,
+                "name": "João Cancelo",
+                "position": "DF",
+                "birth_year": 1994,
+                "previous_club": "Manchester C",
+                "nationality": "POR"
+            },
+            {
+                "number": 3,
+                "name": "Alejandro Balde",
+                "position": "DF",
+                "birth_year": 2003,
+                "previous_club": "Barcelona B",
+                "nationality": "ESP"
+            },
+            {
+                "number": 4,
+                "name": "Ronald Araújo",
+                "position": "DF",
+                "birth_year": 1999,
+                "previous_club": "Boston River",
+                "nationality": "URU"
+            },
+            {
+                "number": 5,
+                "name": "Íñigo Martínez",
+                "position": "DF",
+                "birth_year": 1991,
+                "previous_club": "Athletic Bilbao",
+                "nationality": "ESP"
+            },
+            {
+                "number": 6,
+                "name": "Gavi",
+                "position": "MF",
+                "birth_year": 2004,
+                "previous_club": "Barcelona B",
+                "nationality": "ESP"
+            },
+            {
+                "number": 7,
+                "name": "Ferrán Torres",
+                "position": "FW",
+                "birth_year": 2000,
+                "previous_club": "Manchester C",
+                "nationality": "ESP"
+            },
+            {
+                "number": 8,
+                "name": "Pedri",
+                "position": "MF",
+                "birth_year": 2002,
+                "previous_club": "Las Palmas B",
+                "nationality": "ESP"
+            },
+            {
+                "number": 9,
+                "name": "Robert Lewandowski",
+                "position": "FW",
+                "birth_year": 1988,
+                "previous_club": "Bayern Munich",
+                "nationality": "POL"
+            },
+            {
+                "number": 11,
+                "name": "Raphinha",
+                "position": "MF",
+                "birth_year": 1996,
+                "previous_club": "Leeds U",
+                "nationality": "BRA"
+            },
+            {
+                "number": 14,
+                "name": "João Félix",
+                "position": "FW",
+                "birth_year": 1999,
+                "previous_club": "Atlético Madrid",
+                "nationality": "POR"
+            },
+            {
+                "number": 16,
+                "name": "Fermín López",
+                "position": "MF",
+                "birth_year": 2003,
+                "previous_club": "Barcelona B",
+                "nationality": "ESP"
+            },
+            {
+                "number": 18,
+                "name": "Oriol Romeu",
+                "position": "MF",
+                "birth_year": 1991,
+                "previous_club": "Girona",
+                "nationality": "ESP"
+            },
+            {
+                "number": 19,
+                "name": "Vitor Roque",
+                "position": "FW",
+                "birth_year": 2005,
+                "previous_club": "Athletico Paranaense",
+                "nationality": "BRA"
+            },
+            {
+                "number": 20,
+                "name": "Sergi Roberto",
+                "position": "DF",
+                "birth_year": 1992,
+                "previous_club": "Barcelona B",
+                "nationality": "ESP"
+            },
+            {
+                "number": 21,
+                "name": "Frenkie de Jong",
+                "position": "MF",
+                "birth_year": 1997,
+                "previous_club": "Ajax",
+                "nationality": "NED"
+            },
+            {
+                "number": 22,
+                "name": "İlkay Gündoğan",
+                "position": "MF",
+                "birth_year": 1990,
+                "previous_club": "Manchester C",
+                "nationality": "GER"
+            },
+            {
+                "number": 23,
+                "name": "Jules Koundé",
+                "position": "DF",
+                "birth_year": 1998,
+                "previous_club": "Sevilla",
+                "nationality": "FRA"
+            },
+            {
+                "number": 27,
+                "name": "Lamine Yamal",
+                "position": "FW",
+                "birth_year": 2007,
+                "previous_club": "Barcelona B",
+                "nationality": "ESP"
+            },
+            {
+                "number": 33,
+                "name": "Pau Cubarsí",
+                "position": "DF",
+                "birth_year": 2007,
+                "previous_club": "Barcelona B",
+                "nationality": "ESP"
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "team": "Real Betis Balompié",
+        "league": "Primera División de España 2023/24",
+        "stadium": {
+            "name": "Estadio Benito Villamarín",
+            "capacity": 60721
+        },
+        "coach": {
+            "name": "Manuel Pellegrini",
+            "birth_year": 1953,
+            "nationality": "CHI"
+        },
+        "badge_url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/13/Real_betis_logo.svg/1200px-Real_betis_logo.svg.png",
+        "players": [
+            {
+                "number": 1,
+                "name": "Claudio Bravo",
+                "position": "GK",
+                "birth_year": 1983,
+                "previous_club": "Manchester C",
+                "nationality": "CHI"
+            },
+            {
+                "number": 13,
+                "name": "Rui Silva",
+                "position": "GK",
+                "birth_year": 1994,
+                "previous_club": "Granada",
+                "nationality": "POR"
+            },
+            {
+                "number": 2,
+                "name": "Héctor Bellerín",
+                "position": "DF",
+                "birth_year": 1995,
+                "previous_club": "Sporting CP",
+                "nationality": "ESP"
+            },
+            {
+                "number": 3,
+                "name": "Juan Miranda",
+                "position": "DF",
+                "birth_year": 2000,
+                "previous_club": "Barcelona B",
+                "nationality": "ESP"
+            },
+            {
+                "number": 6,
+                "name": "Germán Pezzella",
+                "position": "DF",
+                "birth_year": 1991,
+                "previous_club": "Fiorentina",
+                "nationality": "ARG"
+            },
+            {
+                "number": 8,
+                "name": "Nabil Fekir",
+                "position": "MF",
+                "birth_year": 1993,
+                "previous_club": "Lyon",
+                "nationality": "FRA"
+            },
+            {
+                "number": 9,
+                "name": "Ezequiel Ávila",
+                "position": "FW",
+                "birth_year": 1994,
+                "previous_club": "Osasuna",
+                "nationality": "ARG"
+            },
+            {
+                "number": 10,
+                "name": "Ayoze Pérez",
+                "position": "FW",
+                "birth_year": 1993,
+                "previous_club": "Leicester C",
+                "nationality": "ESP"
+            },
+            {
+                "number": 11,
+                "name": "Cédric Bakambu",
+                "position": "FW",
+                "birth_year": 1991,
+                "previous_club": "Galatasaray",
+                "nationality": "COD"
+            },
+            {
+                "number": 12,
+                "name": "Willian José",
+                "position": "FW",
+                "birth_year": 1991,
+                "previous_club": "Real Sociedad",
+                "nationality": "BRA"
+            },
+            {
+                "number": 14,
+                "name": "William Carvalho",
+                "position": "MF",
+                "birth_year": 1992,
+                "previous_club": "Sporting CP",
+                "nationality": "POR"
+            },
+            {
+                "number": 17,
+                "name": "Rodri",
+                "position": "MF",
+                "birth_year": 2000,
+                "previous_club": "Betis B",
+                "nationality": "ESP"
+            },
+            {
+                "number": 18,
+                "name": "Pablo Fornals",
+                "position": "MF",
+                "birth_year": 1996,
+                "previous_club": "West Ham U",
+                "nationality": "ESP"
+            },
+            {
+                "number": 19,
+                "name": "Sokratis Papastathopoulos",
+                "position": "DF",
+                "birth_year": 1988,
+                "previous_club": "Olympiakos",
+                "nationality": "GRE"
+            },
+            {
+                "number": 20,
+                "name": "Abner",
+                "position": "DF",
+                "birth_year": 2000,
+                "previous_club": "Ponte Preta",
+                "nationality": "BRA"
+            },
+            {
+                "number": 21,
+                "name": "Marc Roca",
+                "position": "MF",
+                "birth_year": 1996,
+                "previous_club": "Leeds U",
+                "nationality": "ESP"
+            },
+            {
+                "number": 22,
+                "name": "Isco",
+                "position": "MF",
+                "birth_year": 1992,
+                "previous_club": "Sevilla",
+                "nationality": "ESP"
+            },
+            {
+                "number": 23,
+                "name": "Youssouf Sabaly",
+                "position": "DF",
+                "birth_year": 1993,
+                "previous_club": "Bordeaux",
+                "nationality": "SEN"
+            },
+            {
+                "number": 24,
+                "name": "Aitor Ruibal",
+                "position": "FW",
+                "birth_year": 1996,
+                "previous_club": "Betis B",
+                "nationality": "ESP"
+            },
+            {
+                "number": 27,
+                "name": "Sergi Altimira",
+                "position": "MF",
+                "birth_year": 2001,
+                "previous_club": "Getafe",
+                "nationality": "ESP"
+            },
+            {
+                "number": 28,
+                "name": "Chadi Riad",
+                "position": "DF",
+                "birth_year": 2003,
+                "previous_club": "Barcelona B",
+                "nationality": "MAR"
+            },
+            {
+                "number": 38,
+                "name": "Assane Diao",
+                "position": "FW",
+                "birth_year": 2005,
+                "previous_club": "Betis B",
+                "nationality": "ESP"
+            },
+            {
+                "number": 42,
+                "name": "Pablo Busto",
+                "position": "DF",
+                "birth_year": 2005,
+                "previous_club": "Betis B",
+                "nationality": "ESP"
+            },
+            {
+                "number": 44,
+                "name": "Marcos Solís",
+                "position": "DF",
+                "birth_year": 2005,
+                "previous_club": "Betis B",
+                "nationality": "ESP"
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "team": "Cádiz CF",
+        "league": "Primera División de España 2023/24",
+        "stadium": {
+            "name": "Estadio Nuevo Mirandilla",
+            "capacity": 25033
+        },
+        "coach": {
+            "name": "Mauricio Pellegrino",
+            "birth_year": 1971,
+            "nationality": "ARG"
+        },
+        "badge_url": "https://upload.wikimedia.org/wikipedia/pt/e/eb/C%C3%A1diz_Club_de_F%C3%BAtbol_logo.png",
+        "players": [
+            {
+                "number": 1,
+                "name": "Jeremías Ledesma",
+                "position": "GK",
+                "birth_year": 1993,
+                "previous_club": "Rosario Central",
+                "nationality": "ARG"
+            },
+            {
+                "number": 13,
+                "name": "David Gil",
+                "position": "GK",
+                "birth_year": 1994,
+                "previous_club": "Getafe B",
+                "nationality": "ESP"
+            },
+            {
+                "number": 2,
+                "name": "Joseba Zaldúa",
+                "position": "DF",
+                "birth_year": 1992,
+                "previous_club": "Real Sociedad",
+                "nationality": "ESP"
+            },
+            {
+                "number": 3,
+                "name": "Fali",
+                "position": "DF",
+                "birth_year": 1993,
+                "previous_club": "Nàstic",
+                "nationality": "ESP"
+            },
+            {
+                "number": 5,
+                "name": "Víctor Chust",
+                "position": "DF",
+                "birth_year": 2000,
+                "previous_club": "Real Madrid B",
+                "nationality": "ESP"
+            },
+            {
+                "number": 6,
+                "name": "Diadie Samassékou",
+                "position": "MF",
+                "birth_year": 1996,
+                "previous_club": "1899 Hoffenheim",
+                "nationality": "MLI"
+            },
+            {
+                "number": 7,
+                "name": "Rubén Sobrino",
+                "position": "FW",
+                "birth_year": 1992,
+                "previous_club": "Valencia",
+                "nationality": "ESP"
+            },
+            {
+                "number": 8,
+                "name": "Álex Fernández",
+                "position": "MF",
+                "birth_year": 1992,
+                "previous_club": "Elche",
+                "nationality": "ESP"
+            },
+            {
+                "number": 9,
+                "name": "Juanmi",
+                "position": "FW",
+                "birth_year": 1993,
+                "previous_club": "Betis",
+                "nationality": "ESP"
+            },
+            {
+                "number": 10,
+                "name": "Brian Ocampo",
+                "position": "FW",
+                "birth_year": 1999,
+                "previous_club": "Nacional [URU]",
+                "nationality": "URU"
+            },
+            {
+                "number": 11,
+                "name": "Iván Alejo",
+                "position": "MF",
+                "birth_year": 1995,
+                "previous_club": "Getafe",
+                "nationality": "ESP"
+            },
+            {
+                "number": 12,
+                "name": "Rominigue Kouamé",
+                "position": "MF",
+                "birth_year": 1996,
+                "previous_club": "Troyes",
+                "nationality": "MLI"
+            },
+            {
+                "number": 14,
+                "name": "Momo Mbaye",
+                "position": "DF",
+                "birth_year": 1998,
+                "previous_club": "Watford",
+                "nationality": "SEN"
+            },
+            {
+                "number": 15,
+                "name": "Javi Hernández",
+                "position": "DF",
+                "birth_year": 1998,
+                "previous_club": "Leganés",
+                "nationality": "ESP"
+            },
+            {
+                "number": 16,
+                "name": "Chris Ramos",
+                "position": "FW",
+                "birth_year": 1997,
+                "previous_club": "Lugo",
+                "nationality": "ESP"
+            },
+            {
+                "number": 17,
+                "name": "Gonzalo Escalante",
+                "position": "MF",
+                "birth_year": 1993,
+                "previous_club": "Lazio",
+                "nationality": "ARG"
+            },
+            {
+                "number": 18,
+                "name": "Darwin Machís",
+                "position": "FW",
+                "birth_year": 1993,
+                "previous_club": "Valladolid",
+                "nationality": "VEN"
+            },
+            {
+                "number": 19,
+                "name": "Sergi Guardiola",
+                "position": "FW",
+                "birth_year": 1991,
+                "previous_club": "Valladolid",
+                "nationality": "ESP"
+            },
+            {
+                "number": 20,
+                "name": "Isaac Carcelén",
+                "position": "DF",
+                "birth_year": 1993,
+                "previous_club": "Rayo Majadahonda",
+                "nationality": "ESP"
+            },
+            {
+                "number": 21,
+                "name": "Roger",
+                "position": "FW",
+                "birth_year": 1991,
+                "previous_club": "Elche",
+                "nationality": "ESP"
+            },
+            {
+                "number": 22,
+                "name": "Jorge Meré",
+                "position": "DF",
+                "birth_year": 1997,
+                "previous_club": "América",
+                "nationality": "ESP"
+            },
+            {
+                "number": 24,
+                "name": "Aiham Ousou",
+                "position": "DF",
+                "birth_year": 2000,
+                "previous_club": "Slavia Prague",
+                "nationality": "SWE"
+            },
+            {
+                "number": 25,
+                "name": "Maximiliano Gómez",
+                "position": "FW",
+                "birth_year": 1996,
+                "previous_club": "Trabzonspor",
+                "nationality": "URU"
+            },
+            {
+                "number": 27,
+                "name": "Robert Navarro",
+                "position": "MF",
+                "birth_year": 2002,
+                "previous_club": "Real Sociedad",
+                "nationality": "ESP"
+            },
+            {
+                "number": 28,
+                "name": "Moussa Diakité",
+                "position": "MF",
+                "birth_year": 2003,
+                "previous_club": "Étoiles du Mandé",
+                "nationality": "MLI"
+            },
+            {
+                "number": 40,
+                "name": "Borja Vázquez",
+                "position": "FW",
+                "birth_year": 2005,
+                "previous_club": "Cádiz B",
+                "nationality": "ESP"
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "team": "RC Celta de Vigo",
+        "league": "Primera División de España 2023/24",
+        "stadium": {
+            "name": "Abanca Balaídos",
+            "capacity": 29000
+        },
+        "coach": {
+            "name": "Rafa Benítez",
+            "birth_year": 1960,
+            "nationality": "ESP"
+        },
+        "badge_url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/12/RC_Celta_de_Vigo_logo.svg/800px-RC_Celta_de_Vigo_logo.svg.png",
+        "players": [
+            {
+                "number": 13,
+                "name": "Iván Villar",
+                "position": "GK",
+                "birth_year": 1997,
+                "previous_club": "Celta B",
+                "nationality": "ESP"
+            },
+            {
+                "number": 25,
+                "name": "Vicente Guaita",
+                "position": "GK",
+                "birth_year": 1987,
+                "previous_club": "Crystal Palace",
+                "nationality": "ESP"
+            },
+            {
+                "number": 2,
+                "name": "Carl Starfelt",
+                "position": "DF",
+                "birth_year": 1995,
+                "previous_club": "Celtic",
+                "nationality": "SWE"
+            },
+            {
+                "number": 3,
+                "name": "Óscar Mingueza",
+                "position": "DF",
+                "birth_year": 1999,
+                "previous_club": "Barcelona",
+                "nationality": "ESP"
+            },
+            {
+                "number": 4,
+                "name": "Unai Núñez",
+                "position": "DF",
+                "birth_year": 1997,
+                "previous_club": "Athletic Bilbao",
+                "nationality": "ESP"
+            },
+            {
+                "number": 5,
+                "name": "Renato Tapia",
+                "position": "MF",
+                "birth_year": 1995,
+                "previous_club": "Feyenoord",
+                "nationality": "PER"
+            },
+            {
+                "number": 6,
+                "name": "Carlos Dotor",
+                "position": "MF",
+                "birth_year": 2001,
+                "previous_club": "Real Madrid B",
+                "nationality": "ESP"
+            },
+            {
+                "number": 7,
+                "name": "Carles Pérez",
+                "position": "FW",
+                "birth_year": 1998,
+                "previous_club": "Roma",
+                "nationality": "ESP"
+            },
+            {
+                "number": 8,
+                "name": "Fran Beltrán",
+                "position": "MF",
+                "birth_year": 1999,
+                "previous_club": "Rayo Vallecano",
+                "nationality": "ESP"
+            },
+            {
+                "number": 9,
+                "name": "Tadeo Allende",
+                "position": "FW",
+                "birth_year": 1999,
+                "previous_club": "Godoy Cruz (Mendoza)",
+                "nationality": "ARG"
+            },
+            {
+                "number": 10,
+                "name": "Iago Aspas",
+                "position": "FW",
+                "birth_year": 1987,
+                "previous_club": "Sevilla",
+                "nationality": "ESP"
+            },
+            {
+                "number": 11,
+                "name": "Franco Cervi",
+                "position": "MF",
+                "birth_year": 1994,
+                "previous_club": "Benfica",
+                "nationality": "ARG"
+            },
+            {
+                "number": 12,
+                "name": "Tasos Douvikas",
+                "position": "FW",
+                "birth_year": 1999,
+                "previous_club": "FC Utrecht",
+                "nationality": "GRE"
+            },
+            {
+                "number": 14,
+                "name": "Luca De La Torre",
+                "position": "MF",
+                "birth_year": 1998,
+                "previous_club": "Heracles Almelo",
+                "nationality": "USA"
+            },
+            {
+                "number": 15,
+                "name": "Joseph Aidoo",
+                "position": "DF",
+                "birth_year": 1995,
+                "previous_club": "KRC Genk",
+                "nationality": "GHA"
+            },
+            {
+                "number": 16,
+                "name": "Jailson",
+                "position": "MF",
+                "birth_year": 1995,
+                "previous_club": "Palmeiras",
+                "nationality": "BRA"
+            },
+            {
+                "number": 17,
+                "name": "Jonathan Bamba",
+                "position": "FW",
+                "birth_year": 1996,
+                "previous_club": "Lille",
+                "nationality": "CIV"
+            },
+            {
+                "number": 18,
+                "name": "Jörgen Strand Larsen",
+                "position": "FW",
+                "birth_year": 2000,
+                "previous_club": "FC Groningen",
+                "nationality": "NOR"
+            },
+            {
+                "number": 19,
+                "name": "Williot Swedberg",
+                "position": "MF",
+                "birth_year": 2004,
+                "previous_club": "Hammarby IF",
+                "nationality": "SWE"
+            },
+            {
+                "number": 20,
+                "name": "Kevin Vázquez",
+                "position": "DF",
+                "birth_year": 1993,
+                "previous_club": "Celta B",
+                "nationality": "ESP"
+            },
+            {
+                "number": 21,
+                "name": "Mihailo Ristić",
+                "position": "DF",
+                "birth_year": 1995,
+                "previous_club": "Benfica",
+                "nationality": "SRB"
+            },
+            {
+                "number": 22,
+                "name": "Javi Manquillo",
+                "position": "DF",
+                "birth_year": 1994,
+                "previous_club": "Newcastle U",
+                "nationality": "ESP"
+            },
+            {
+                "number": 23,
+                "name": "Manu Sánchez",
+                "position": "DF",
+                "birth_year": 2000,
+                "previous_club": "Atlético Madrid",
+                "nationality": "ESP"
+            },
+            {
+                "number": 24,
+                "name": "Miguel Rodríguez",
+                "position": "FW",
+                "birth_year": 2003,
+                "previous_club": "Celta B",
+                "nationality": "ESP"
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "team": "Girona FC",
+        "league": "Primera División de España 2023/24",
+        "stadium": {
+            "name": "Estadi Montilivi",
+            "capacity": 13500
+        },
+        "coach": {
+            "name": "Míchel Sánchez",
+            "birth_year": 1975,
+            "nationality": "ESP"
+        },
+        "badge_url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f7/Girona_FC_Logo.svg/1200px-Girona_FC_Logo.svg.png",
+        "players": [
+            {
+                "number": 1,
+                "name": "Juan Carlos",
+                "position": "GK",
+                "birth_year": 1988,
+                "previous_club": "Lugo",
+                "nationality": "ESP"
+            },
+            {
+                "number": 13,
+                "name": "Paulo Gazzaniga",
+                "position": "GK",
+                "birth_year": 1992,
+                "previous_club": "Fulham",
+                "nationality": "ARG"
+            },
+            {
+                "number": 3,
+                "name": "Miguel Gutiérrez",
+                "position": "DF",
+                "birth_year": 2001,
+                "previous_club": "Real Madrid B",
+                "nationality": "ESP"
+            },
+            {
+                "number": 4,
+                "name": "Arnau Martínez",
+                "position": "DF",
+                "birth_year": 2003,
+                "previous_club": "Girona B",
+                "nationality": "ESP"
+            },
+            {
+                "number": 5,
+                "name": "David López",
+                "position": "MF",
+                "birth_year": 1989,
+                "previous_club": "Espanyol",
+                "nationality": "ESP"
+            },
+            {
+                "number": 7,
+                "name": "Cristhian Stuani",
+                "position": "FW",
+                "birth_year": 1986,
+                "previous_club": "Middlesbrough",
+                "nationality": "URU"
+            },
+            {
+                "number": 8,
+                "name": "Viktor Tsyhankov",
+                "position": "MF",
+                "birth_year": 1997,
+                "previous_club": "Dynamo Kyiv",
+                "nationality": "UKR"
+            },
+            {
+                "number": 9,
+                "name": "Artem Dovbyk",
+                "position": "FW",
+                "birth_year": 1997,
+                "previous_club": "Dnipro-1",
+                "nationality": "UKR"
+            },
+            {
+                "number": 10,
+                "name": "Borja",
+                "position": "MF",
+                "birth_year": 1990,
+                "previous_club": "Huesca",
+                "nationality": "ESP"
+            },
+            {
+                "number": 11,
+                "name": "Valery Fernández",
+                "position": "DF",
+                "birth_year": 1999,
+                "previous_club": "Girona B",
+                "nationality": "ESP"
+            },
+            {
+                "number": 14,
+                "name": "Aleix García",
+                "position": "MF",
+                "birth_year": 1997,
+                "previous_club": "Eibar",
+                "nationality": "ESP"
+            },
+            {
+                "number": 15,
+                "name": "Juanpe",
+                "position": "DF",
+                "birth_year": 1991,
+                "previous_club": "Granada",
+                "nationality": "ESP"
+            },
+            {
+                "number": 16,
+                "name": "Sávio",
+                "position": "FW",
+                "birth_year": 2004,
+                "previous_club": "Troyes",
+                "nationality": "BRA"
+            },
+            {
+                "number": 17,
+                "name": "Daley Blind",
+                "position": "DF",
+                "birth_year": 1990,
+                "previous_club": "Bayern Munich",
+                "nationality": "NED"
+            },
+            {
+                "number": 18,
+                "name": "Pablo Torre",
+                "position": "MF",
+                "birth_year": 2003,
+                "previous_club": "Barcelona B",
+                "nationality": "ESP"
+            },
+            {
+                "number": 19,
+                "name": "Toni Villa",
+                "position": "MF",
+                "birth_year": 1995,
+                "previous_club": "Valladolid",
+                "nationality": "ESP"
+            },
+            {
+                "number": 20,
+                "name": "Yan Couto",
+                "position": "DF",
+                "birth_year": 2002,
+                "previous_club": "Manchester C",
+                "nationality": "BRA"
+            },
+            {
+                "number": 21,
+                "name": "Yangel Herrera",
+                "position": "MF",
+                "birth_year": 1998,
+                "previous_club": "Manchester C",
+                "nationality": "VEN"
+            },
+            {
+                "number": 22,
+                "name": "Jhon Solís",
+                "position": "MF",
+                "birth_year": 2004,
+                "previous_club": "Atlético Nacional",
+                "nationality": "COL"
+            },
+            {
+                "number": 23,
+                "name": "Iván Martín",
+                "position": "MF",
+                "birth_year": 1999,
+                "previous_club": "Villarreal B",
+                "nationality": "ESP"
+            },
+            {
+                "number": 24,
+                "name": "Portu",
+                "position": "FW",
+                "birth_year": 1992,
+                "previous_club": "Getafe",
+                "nationality": "ESP"
+            },
+            {
+                "number": 25,
+                "name": "Eric García",
+                "position": "DF",
+                "birth_year": 2001,
+                "previous_club": "Barcelona",
+                "nationality": "ESP"
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "team": "Granada CF",
+        "league": "Primera División de España 2023/24",
+        "stadium": {
+            "name": "Estadio Nuevo Los Cármenes",
+            "capacity": 19336
+        },
+        "coach": {
+            "name": "Alexander Medina",
+            "birth_year": 1978,
+            "nationality": "URU"
+        },
+        "badge_url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Escudo_Granada_club_de_f%C3%BAtbol.png",
+        "players": [
+            {
+                "number": 1,
+                "name": "Raúl",
+                "position": "GK",
+                "birth_year": 1988,
+                "previous_club": "Las Palmas",
+                "nationality": "ESP"
+            },
+            {
+                "number": 13,
+                "name": "Marc Martínez",
+                "position": "GK",
+                "birth_year": 1990,
+                "previous_club": "Cartagena",
+                "nationality": "ESP"
+            },
+            {
+                "number": 25,
+                "name": "Augusto Batalla",
+                "position": "GK",
+                "birth_year": 1996,
+                "previous_club": "River Plate",
+                "nationality": "ARG"
+            },
+            {
+                "number": 2,
+                "name": "Bruno Méndez",
+                "position": "DF",
+                "birth_year": 1999,
+                "previous_club": "Corinthians",
+                "nationality": "URU"
+            },
+            {
+                "number": 3,
+                "name": "Faitout Maouassa",
+                "position": "DF",
+                "birth_year": 1998,
+                "previous_club": "Club Brugge",
+                "nationality": "FRA"
+            },
+            {
+                "number": 5,
+                "name": "Jesús Vallejo",
+                "position": "DF",
+                "birth_year": 1997,
+                "previous_club": "Real Madrid",
+                "nationality": "ESP"
+            },
+            {
+                "number": 6,
+                "name": "Martin Hongla",
+                "position": "MF",
+                "birth_year": 1998,
+                "previous_club": "Verona",
+                "nationality": "CMR"
+            },
+            {
+                "number": 7,
+                "name": "Lucas Boyé",
+                "position": "FW",
+                "birth_year": 1996,
+                "previous_club": "Elche",
+                "nationality": "ARG"
+            },
+            {
+                "number": 8,
+                "name": "Matías Arezo",
+                "position": "FW",
+                "birth_year": 2002,
+                "previous_club": "River Plate [URU]",
+                "nationality": "URU"
+            },
+            {
+                "number": 9,
+                "name": "José Callejón",
+                "position": "FW",
+                "birth_year": 1987,
+                "previous_club": "Fiorentina",
+                "nationality": "ESP"
+            },
+            {
+                "number": 10,
+                "name": "Antonio Puertas",
+                "position": "MF",
+                "birth_year": 1992,
+                "previous_club": "Almería",
+                "nationality": "ESP"
+            },
+            {
+                "number": 11,
+                "name": "Myrto Uzuni",
+                "position": "MF",
+                "birth_year": 1995,
+                "previous_club": "Ferencváros",
+                "nationality": "ALB"
+            },
+            {
+                "number": 14,
+                "name": "Ignasi Miquel",
+                "position": "DF",
+                "birth_year": 1992,
+                "previous_club": "Getafe",
+                "nationality": "ESP"
+            },
+            {
+                "number": 15,
+                "name": "Carlos Neva",
+                "position": "DF",
+                "birth_year": 1996,
+                "previous_club": "Marbella",
+                "nationality": "ESP"
+            },
+            {
+                "number": 17,
+                "name": "Theo Corbeanu",
+                "position": "FW",
+                "birth_year": 2002,
+                "previous_club": "Wolverhampton W",
+                "nationality": "CAN"
+            },
+            {
+                "number": 18,
+                "name": "Kamil Jóźwiak",
+                "position": "MF",
+                "birth_year": 1998,
+                "previous_club": "Charlotte FC",
+                "nationality": "POL"
+            },
+            {
+                "number": 19,
+                "name": "Facundo Pellistri",
+                "position": "MF",
+                "birth_year": 2001,
+                "previous_club": "Manchester U",
+                "nationality": "URU"
+            },
+            {
+                "number": 20,
+                "name": "Sergio Ruiz",
+                "position": "MF",
+                "birth_year": 1994,
+                "previous_club": "Charlotte FC",
+                "nationality": "ESP"
+            },
+            {
+                "number": 21,
+                "name": "Óscar Melendo",
+                "position": "MF",
+                "birth_year": 1997,
+                "previous_club": "Espanyol",
+                "nationality": "ESP"
+            },
+            {
+                "number": 22,
+                "name": "Kamil Piątkowski",
+                "position": "DF",
+                "birth_year": 2000,
+                "previous_club": "Red Bull Salzburg",
+                "nationality": "POL"
+            },
+            {
+                "number": 23,
+                "name": "Gerard Gumbau",
+                "position": "MF",
+                "birth_year": 1994,
+                "previous_club": "Elche",
+                "nationality": "ESP"
+            },
+            {
+                "number": 24,
+                "name": "Gonzalo Villar",
+                "position": "MF",
+                "birth_year": 1998,
+                "previous_club": "Roma",
+                "nationality": "ESP"
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "team": "UD Las Palmas",
+        "league": "Primera División de España 2023/24",
+        "stadium": {
+            "name": "Estadio de Gran Canaria",
+            "capacity": 32392
+        },
+        "coach": {
+            "name": "García Pimienta",
+            "birth_year": 1974,
+            "nationality": "ESP"
+        },
+        "badge_url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/20/UD_Las_Palmas_logo.svg/1200px-UD_Las_Palmas_logo.svg.png",
+        "players": [
+            {
+                "number": 1,
+                "name": "Aarón Escandell",
+                "position": "GK",
+                "birth_year": 1995,
+                "previous_club": "Cartagena",
+                "nationality": "ESP"
+            },
+            {
+                "number": 13,
+                "name": "Álvaro Valles",
+                "position": "GK",
+                "birth_year": 1997,
+                "previous_club": "Betis B",
+                "nationality": "ESP"
+            },
+            {
+                "number": 2,
+                "name": "Marvin Park",
+                "position": "DF",
+                "birth_year": 2000,
+                "previous_club": "Real Madrid B",
+                "nationality": "ESP"
+            },
+            {
+                "number": 3,
+                "name": "Sergi Cardona",
+                "position": "DF",
+                "birth_year": 1999,
+                "previous_club": "La Pobla de Mafumet",
+                "nationality": "ESP"
+            },
+            {
+                "number": 4,
+                "name": "Alex Suárez",
+                "position": "DF",
+                "birth_year": 1993,
+                "previous_club": "Las Palmas B",
+                "nationality": "ESP"
+            },
+            {
+                "number": 5,
+                "name": "Javi Muñoz",
+                "position": "MF",
+                "birth_year": 1995,
+                "previous_club": "Eibar",
+                "nationality": "ESP"
+            },
+            {
+                "number": 7,
+                "name": "Cristian Herrera",
+                "position": "FW",
+                "birth_year": 1991,
+                "previous_club": "Ibiza",
+                "nationality": "ESP"
+            },
+            {
+                "number": 8,
+                "name": "Maximo Perrone",
+                "position": "MF",
+                "birth_year": 2003,
+                "previous_club": "Manchester C",
+                "nationality": "ARG"
+            },
+            {
+                "number": 9,
+                "name": "Sandro Ramírez",
+                "position": "FW",
+                "birth_year": 1995,
+                "previous_club": "Huesca",
+                "nationality": "ESP"
+            },
+            {
+                "number": 10,
+                "name": "Alberto Moleiro",
+                "position": "MF",
+                "birth_year": 2003,
+                "previous_club": "Las Palmas B",
+                "nationality": "ESP"
+            },
+            {
+                "number": 11,
+                "name": "Benito Ramírez",
+                "position": "MF",
+                "birth_year": 1995,
+                "previous_club": "Las Palmas B",
+                "nationality": "ESP"
+            },
+            {
+                "number": 12,
+                "name": "Enzo Loiodice",
+                "position": "MF",
+                "birth_year": 2000,
+                "previous_club": "Dijon",
+                "nationality": "FRA"
+            },
+            {
+                "number": 14,
+                "name": "Álvaro Lemos",
+                "position": "DF",
+                "birth_year": 1993,
+                "previous_club": "Celta Vigo",
+                "nationality": "ESP"
+            },
+            {
+                "number": 15,
+                "name": "Mika Màrmol",
+                "position": "DF",
+                "birth_year": 2001,
+                "previous_club": "Andorra",
+                "nationality": "ESP"
+            },
+            {
+                "number": 16,
+                "name": "Sory Kaba",
+                "position": "FW",
+                "birth_year": 1995,
+                "previous_club": "FC Midtjylland",
+                "nationality": "GUI"
+            },
+            {
+                "number": 17,
+                "name": "Munir El Haddadi",
+                "position": "FW",
+                "birth_year": 1995,
+                "previous_club": "Getafe",
+                "nationality": "MAR"
+            },
+            {
+                "number": 18,
+                "name": "Daley Sinkgraven",
+                "position": "DF",
+                "birth_year": 1995,
+                "previous_club": "Bayer Leverkusen",
+                "nationality": "NED"
+            },
+            {
+                "number": 19,
+                "name": "Marc Cardona",
+                "position": "FW",
+                "birth_year": 1995,
+                "previous_club": "Osasuna",
+                "nationality": "ESP"
+            },
+            {
+                "number": 20,
+                "name": "Kirian Rodríguez",
+                "position": "MF",
+                "birth_year": 1996,
+                "previous_club": "Las Palmas B",
+                "nationality": "ESP"
+            },
+            {
+                "number": 21,
+                "name": "José Campaña",
+                "position": "MF",
+                "birth_year": 1993,
+                "previous_club": "Levante",
+                "nationality": "ESP"
+            },
+            {
+                "number": 22,
+                "name": "Omenuke Mfulu",
+                "position": "MF",
+                "birth_year": 1994,
+                "previous_club": "Elche",
+                "nationality": "COD"
+            },
+            {
+                "number": 23,
+                "name": "Saúl Coco",
+                "position": "DF",
+                "birth_year": 1999,
+                "previous_club": "Las Palmas B",
+                "nationality": "EQG"
+            },
+            {
+                "number": 24,
+                "name": "Pejiño",
+                "position": "MF",
+                "birth_year": 1996,
+                "previous_club": "Sevilla B",
+                "nationality": "ESP"
+            },
+            {
+                "number": 25,
+                "name": "Fabio González",
+                "position": "MF",
+                "birth_year": 1997,
+                "previous_club": "Las Palmas B",
+                "nationality": "ESP"
+            },
+            {
+                "number": 27,
+                "name": "Pau",
+                "position": "FW",
+                "birth_year": 2003,
+                "previous_club": "Las Palmas B",
+                "nationality": "ESP"
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "team": "RCD Mallorca",
+        "league": "Primera División de España 2023/24",
+        "stadium": {
+            "name": "Estadi Mallorca Son Moix",
+            "capacity": 23142
+        },
+        "coach": {
+            "name": "Javier Aguirre",
+            "birth_year": 1958,
+            "nationality": "MEX"
+        },
+        "badge_url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/Rcd_mallorca.svg/1200px-Rcd_mallorca.svg.png",
+        "players": [
+            {
+                "number": 1,
+                "name": "Predrag Rajković",
+                "position": "GK",
+                "birth_year": 1995,
+                "previous_club": "Reims",
+                "nationality": "SRB"
+            },
+            {
+                "number": 13,
+                "name": "Dominik Greif",
+                "position": "GK",
+                "birth_year": 1997,
+                "previous_club": "Slovan Bratislava",
+                "nationality": "SVK"
+            },
+            {
+                "number": 2,
+                "name": "Matija Nastasić",
+                "position": "DF",
+                "birth_year": 1993,
+                "previous_club": "Fiorentina",
+                "nationality": "SRB"
+            },
+            {
+                "number": 3,
+                "name": "Toni Lato",
+                "position": "DF",
+                "birth_year": 1997,
+                "previous_club": "Valencia",
+                "nationality": "ESP"
+            },
+            {
+                "number": 4,
+                "name": "Siebe Van Der Heyden",
+                "position": "DF",
+                "birth_year": 1998,
+                "previous_club": "Union St-Gilloise",
+                "nationality": "BEL"
+            },
+            {
+                "number": 5,
+                "name": "Omar Mascarell",
+                "position": "MF",
+                "birth_year": 1993,
+                "previous_club": "Elche",
+                "nationality": "ESP"
+            },
+            {
+                "number": 7,
+                "name": "Vedat Muriqi",
+                "position": "FW",
+                "birth_year": 1994,
+                "previous_club": "Lazio",
+                "nationality": "KVX"
+            },
+            {
+                "number": 8,
+                "name": "Manu Morlanes",
+                "position": "MF",
+                "birth_year": 1999,
+                "previous_club": "Villarreal",
+                "nationality": "ESP"
+            },
+            {
+                "number": 9,
+                "name": "Abdón Prats",
+                "position": "FW",
+                "birth_year": 1992,
+                "previous_club": "Racing Santander",
+                "nationality": "ESP"
+            },
+            {
+                "number": 10,
+                "name": "Sergi Darder",
+                "position": "MF",
+                "birth_year": 1993,
+                "previous_club": "Espanyol",
+                "nationality": "ESP"
+            },
+            {
+                "number": 11,
+                "name": "Jaume Costa",
+                "position": "DF",
+                "birth_year": 1988,
+                "previous_club": "Villarreal",
+                "nationality": "ESP"
+            },
+            {
+                "number": 12,
+                "name": "Samú Costa",
+                "position": "MF",
+                "birth_year": 2000,
+                "previous_club": "Almería",
+                "nationality": "POR"
+            },
+            {
+                "number": 14,
+                "name": "Dani Rodríguez",
+                "position": "MF",
+                "birth_year": 1988,
+                "previous_club": "Albacete",
+                "nationality": "ESP"
+            },
+            {
+                "number": 15,
+                "name": "Pablo Maffeo",
+                "position": "DF",
+                "birth_year": 1997,
+                "previous_club": "Stuttgart",
+                "nationality": "ESP"
+            },
+            {
+                "number": 17,
+                "name": "Cyle Larin",
+                "position": "FW",
+                "birth_year": 1995,
+                "previous_club": "Valladolid",
+                "nationality": "CAN"
+            },
+            {
+                "number": 18,
+                "name": "Antonio Sánchez",
+                "position": "MF",
+                "birth_year": 1997,
+                "previous_club": "Mallorca B",
+                "nationality": "ESP"
+            },
+            {
+                "number": 19,
+                "name": "Javi Llabrés",
+                "position": "FW",
+                "birth_year": 2002,
+                "previous_club": "Mallorca B",
+                "nationality": "ESP"
+            },
+            {
+                "number": 20,
+                "name": "Giovanni González",
+                "position": "DF",
+                "birth_year": 1994,
+                "previous_club": "Peñarol",
+                "nationality": "URU"
+            },
+            {
+                "number": 21,
+                "name": "Antonio Raíllo",
+                "position": "DF",
+                "birth_year": 1991,
+                "previous_club": "Espanyol",
+                "nationality": "ESP"
+            },
+            {
+                "number": 22,
+                "name": "Nacho Vidal",
+                "position": "DF",
+                "birth_year": 1995,
+                "previous_club": "Osasuna",
+                "nationality": "ESP"
+            },
+            {
+                "number": 23,
+                "name": "Nemanja Radonjić",
+                "position": "MF",
+                "birth_year": 1996,
+                "previous_club": "Torino",
+                "nationality": "SRB"
+            },
+            {
+                "number": 24,
+                "name": "Martin Valjent",
+                "position": "DF",
+                "birth_year": 1995,
+                "previous_club": "Chievo Verona",
+                "nationality": "SVK"
+            },
+            {
+                "number": 26,
+                "name": "Rubén Quintanilla",
+                "position": "MF",
+                "birth_year": 2002,
+                "previous_club": "Damm",
+                "nationality": "ESP"
+            },
+            {
+                "number": 29,
+                "name": "Miguelito",
+                "position": "DF",
+                "birth_year": 2001,
+                "previous_club": "Mallorca B",
+                "nationality": "ESP"
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "team": "Rayo Vallecano",
+        "league": "Primera División de España 2023/24",
+        "stadium": {
+            "name": "Estadio de Vallecas",
+            "capacity": 14708
+        },
+        "coach": {
+            "name": "Íñigo Pérez",
+            "birth_year": 1988,
+            "nationality": "ESP"
+        },
+        "badge_url": "https://upload.wikimedia.org/wikipedia/an/c/cc/Rayo_Vallecano_logo.svg.png",
+        "players": [
+            {
+                "number": 1,
+                "name": "Stole Dimitrievski",
+                "position": "GK",
+                "birth_year": 1993,
+                "previous_club": "Nàstic",
+                "nationality": "MKD"
+            },
+            {
+                "number": 13,
+                "name": "Dani Cárdenas",
+                "position": "GK",
+                "birth_year": 1997,
+                "previous_club": "Levante",
+                "nationality": "ESP"
+            },
+            {
+                "number": 2,
+                "name": "Andrei Rațiu",
+                "position": "DF",
+                "birth_year": 1998,
+                "previous_club": "Huesca",
+                "nationality": "ROU"
+            },
+            {
+                "number": 3,
+                "name": "Pep Chavarria",
+                "position": "DF",
+                "birth_year": 1998,
+                "previous_club": "Zaragoza",
+                "nationality": "ESP"
+            },
+            {
+                "number": 4,
+                "name": "Martín Pascual",
+                "position": "DF",
+                "birth_year": 1999,
+                "previous_club": "Rayo B",
+                "nationality": "ESP"
+            },
+            {
+                "number": 5,
+                "name": "Aridane",
+                "position": "DF",
+                "birth_year": 1989,
+                "previous_club": "Osasuna",
+                "nationality": "ESP"
+            },
+            {
+                "number": 6,
+                "name": "José Ángel Pozo",
+                "position": "MF",
+                "birth_year": 1996,
+                "previous_club": "Almería",
+                "nationality": "ESP"
+            },
+            {
+                "number": 7,
+                "name": "Isi Palazón",
+                "position": "MF",
+                "birth_year": 1994,
+                "previous_club": "Ponferradina",
+                "nationality": "ESP"
+            },
+            {
+                "number": 8,
+                "name": "Óscar Trejo",
+                "position": "FW",
+                "birth_year": 1988,
+                "previous_club": "Toulouse",
+                "nationality": "ARG"
+            },
+            {
+                "number": 9,
+                "name": "Radamel Falcao García",
+                "position": "FW",
+                "birth_year": 1986,
+                "previous_club": "Galatasaray",
+                "nationality": "COL"
+            },
+            {
+                "number": 10,
+                "name": "Bebé",
+                "position": "MF",
+                "birth_year": 1990,
+                "previous_club": "Eibar",
+                "nationality": "CPV"
+            },
+            {
+                "number": 11,
+                "name": "Randy Nteka",
+                "position": "MF",
+                "birth_year": 1997,
+                "previous_club": "Fuenlabrada",
+                "nationality": "FRA"
+            },
+            {
+                "number": 12,
+                "name": "Alfonso Espino",
+                "position": "DF",
+                "birth_year": 1992,
+                "previous_club": "Cádiz",
+                "nationality": "URU"
+            },
+            {
+                "number": 14,
+                "name": "Kike Pérez",
+                "position": "MF",
+                "birth_year": 1997,
+                "previous_club": "Valladolid",
+                "nationality": "ESP"
+            },
+            {
+                "number": 15,
+                "name": "Miguel Crespo",
+                "position": "MF",
+                "birth_year": 1996,
+                "previous_club": "Fenerbahçe",
+                "nationality": "POR"
+            },
+            {
+                "number": 16,
+                "name": "Abdul Mumin",
+                "position": "DF",
+                "birth_year": 1998,
+                "previous_club": "Vitória Guimarães",
+                "nationality": "GHA"
+            },
+            {
+                "number": 17,
+                "name": "Unai López",
+                "position": "MF",
+                "birth_year": 1995,
+                "previous_club": "Athletic Bilbao",
+                "nationality": "ESP"
+            },
+            {
+                "number": 18,
+                "name": "Álvaro García",
+                "position": "MF",
+                "birth_year": 1992,
+                "previous_club": "Cádiz",
+                "nationality": "ESP"
+            },
+            {
+                "number": 19,
+                "name": "Jorge De Frutos",
+                "position": "FW",
+                "birth_year": 1997,
+                "previous_club": "Levante",
+                "nationality": "ESP"
+            },
+            {
+                "number": 20,
+                "name": "Iván Balliu",
+                "position": "DF",
+                "birth_year": 1992,
+                "previous_club": "Almería",
+                "nationality": "ALB"
+            },
+            {
+                "number": 21,
+                "name": "Pathé Ciss",
+                "position": "MF",
+                "birth_year": 1994,
+                "previous_club": "Fuenlabrada",
+                "nationality": "SEN"
+            },
+            {
+                "number": 22,
+                "name": "Raúl de Tomás",
+                "position": "FW",
+                "birth_year": 1994,
+                "previous_club": "Espanyol",
+                "nationality": "ESP"
+            },
+            {
+                "number": 23,
+                "name": "Óscar Valentín",
+                "position": "MF",
+                "birth_year": 1994,
+                "previous_club": "Rayo Majadahonda",
+                "nationality": "ESP"
+            },
+            {
+                "number": 24,
+                "name": "Florian Lejeune",
+                "position": "DF",
+                "birth_year": 1991,
+                "previous_club": "Alavés",
+                "nationality": "FRA"
+            },
+            {
+                "number": 29,
+                "name": "Diego Méndez",
+                "position": "DF",
+                "birth_year": 2003,
+                "previous_club": "Rayo B",
+                "nationality": "ESP"
+            },
+            {
+                "number": 34,
+                "name": "Sergio Camello",
+                "position": "FW",
+                "birth_year": 2001,
+                "previous_club": "Atlético Madrid B",
+                "nationality": "ESP"
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "team": "Real Madrid CF",
+        "league": "Primera División de España 2023/24",
+        "stadium": {
+            "name": "Santiago Bernabéu",
+            "capacity": 81044
+        },
+        "coach": {
+            "name": "Carlo Ancelotti",
+            "birth_year": 1959,
+            "nationality": "ITA"
+        },
+        "badge_url": "https://upload.wikimedia.org/wikipedia/en/5/56/Real_Madrid_CF.svg",
+        "players": [
+            {
+                "number": 1,
+                "name": "Thibaut Courtois",
+                "position": "GK",
+                "birth_year": 1992,
+                "previous_club": "Chelsea",
+                "nationality": "BEL"
+            },
+            {
+                "number": 13,
+                "name": "Andriy Lunin",
+                "position": "GK",
+                "birth_year": 1999,
+                "previous_club": "Zorya Luhansk",
+                "nationality": "UKR"
+            },
+            {
+                "number": 25,
+                "name": "Kepa Arrizabalaga",
+                "position": "GK",
+                "birth_year": 1994,
+                "previous_club": "Chelsea",
+                "nationality": "ESP"
+            },
+            {
+                "number": 2,
+                "name": "Daniel Carvajal",
+                "position": "DF",
+                "birth_year": 1992,
+                "previous_club": "Bayer Leverkusen",
+                "nationality": "ESP"
+            },
+            {
+                "number": 3,
+                "name": "Éder Militão",
+                "position": "DF",
+                "birth_year": 1998,
+                "previous_club": "FC Porto",
+                "nationality": "BRA"
+            },
+            {
+                "number": 4,
+                "name": "David Alaba",
+                "position": "DF",
+                "birth_year": 1992,
+                "previous_club": "Bayern Munich",
+                "nationality": "AUT"
+            },
+            {
+                "number": 5,
+                "name": "Jude Bellingham",
+                "position": "MF",
+                "birth_year": 2003,
+                "previous_club": "Borussia Dortmund",
+                "nationality": "ENG"
+            },
+            {
+                "number": 6,
+                "name": "Nacho Fernández",
+                "position": "DF",
+                "birth_year": 1990,
+                "previous_club": "Real Madrid B",
+                "nationality": "ESP"
+            },
+            {
+                "number": 7,
+                "name": "Vinícius Júnior",
+                "position": "FW",
+                "birth_year": 2000,
+                "previous_club": "Flamengo",
+                "nationality": "BRA"
+            },
+            {
+                "number": 8,
+                "name": "Toni Kroos",
+                "position": "MF",
+                "birth_year": 1990,
+                "previous_club": "Bayern Munich",
+                "nationality": "GER"
+            },
+            {
+                "number": 10,
+                "name": "Luka Modrić",
+                "position": "MF",
+                "birth_year": 1985,
+                "previous_club": "Tottenham H",
+                "nationality": "CRO"
+            },
+            {
+                "number": 11,
+                "name": "Rodrygo",
+                "position": "FW",
+                "birth_year": 2001,
+                "previous_club": "Santos",
+                "nationality": "BRA"
+            },
+            {
+                "number": 12,
+                "name": "Eduardo Camavinga",
+                "position": "MF",
+                "birth_year": 2002,
+                "previous_club": "Rennes",
+                "nationality": "FRA"
+            },
+            {
+                "number": 14,
+                "name": "Joselu",
+                "position": "FW",
+                "birth_year": 1990,
+                "previous_club": "Espanyol",
+                "nationality": "ESP"
+            },
+            {
+                "number": 15,
+                "name": "Federico Valverde",
+                "position": "MF",
+                "birth_year": 1998,
+                "previous_club": "Peñarol",
+                "nationality": "URU"
+            },
+            {
+                "number": 17,
+                "name": "Lucas Vázquez",
+                "position": "MF",
+                "birth_year": 1991,
+                "previous_club": "Espanyol",
+                "nationality": "ESP"
+            },
+            {
+                "number": 18,
+                "name": "Aurélien Tchouaméni",
+                "position": "MF",
+                "birth_year": 2000,
+                "previous_club": "Monaco",
+                "nationality": "FRA"
+            },
+            {
+                "number": 19,
+                "name": "Dani Ceballos",
+                "position": "MF",
+                "birth_year": 1996,
+                "previous_club": "Betis",
+                "nationality": "ESP"
+            },
+            {
+                "number": 20,
+                "name": "Fran García",
+                "position": "DF",
+                "birth_year": 1999,
+                "previous_club": "Rayo Vallecano",
+                "nationality": "ESP"
+            },
+            {
+                "number": 21,
+                "name": "Brahim Díaz",
+                "position": "FW",
+                "birth_year": 1999,
+                "previous_club": "Manchester C",
+                "nationality": "MAR"
+            },
+            {
+                "number": 22,
+                "name": "Antonio Rüdiger",
+                "position": "DF",
+                "birth_year": 1993,
+                "previous_club": "Chelsea",
+                "nationality": "GER"
+            },
+            {
+                "number": 23,
+                "name": "Ferland Mendy",
+                "position": "DF",
+                "birth_year": 1995,
+                "previous_club": "Lyon",
+                "nationality": "FRA"
+            },
+            {
+                "number": 24,
+                "name": "Arda Güler",
+                "position": "MF",
+                "birth_year": 2005,
+                "previous_club": "Fenerbahçe",
+                "nationality": "TUR"
+            },
+            {
+                "number": 29,
+                "name": "Álvaro Rodríguez",
+                "position": "FW",
+                "birth_year": 2004,
+                "previous_club": "Real Madrid B",
+                "nationality": "URU"
+            },
+            {
+                "number": 32,
+                "name": "Nico Paz",
+                "position": "MF",
+                "birth_year": 2004,
+                "previous_club": "Real Madrid B",
+                "nationality": "ARG"
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "team": "Sevilla FC",
+        "league": "Primera División de España 2023/24",
+        "stadium": {
+            "name": "Ramón Sánchez-Pizjuán",
+            "capacity": 43883
+        },
+        "coach": {
+            "name": "Quique Sánchez Flores",
+            "birth_year": 1965,
+            "nationality": "ESP"
+        },
+        "badge_url": "https://upload.wikimedia.org/wikipedia/en/3/3b/Sevilla_FC_logo.svg",
+        "players": [
+            {
+                "number": 1,
+                "name": "Marko Dmitrović",
+                "position": "GK",
+                "birth_year": 1992,
+                "previous_club": "Eibar",
+                "nationality": "SRB"
+            },
+            {
+                "number": 4,
+                "name": "Sergio Ramos",
+                "position": "DF",
+                "birth_year": 1986,
+                "previous_club": "Paris St-Germain",
+                "nationality": "ESP"
+            },
+            {
+                "number": 16,
+                "name": "Jesús Navas",
+                "position": "DF",
+                "birth_year": 1985,
+                "previous_club": "Manchester C",
+                "nationality": "ESP"
+            },
+            {
+                "number": 19,
+                "name": "Marcos Acuña",
+                "position": "DF",
+                "birth_year": 1991,
+                "previous_club": "Sporting CP",
+                "nationality": "ARG"
+            },
+            {
+                "number": 5,
+                "name": "Lucas Ocampos",
+                "position": "MF",
+                "birth_year": 1994,
+                "previous_club": "Marseille",
+                "nationality": "ARG"
+            },
+            {
+                "number": 6,
+                "name": "Nemanja Gudelj",
+                "position": "MF",
+                "birth_year": 1991,
+                "previous_club": "Guangzhou Evergrande",
+                "nationality": "SRB"
+            },
+            {
+                "number": 7,
+                "name": "Suso",
+                "position": "MF",
+                "birth_year": 1993,
+                "previous_club": "Milan",
+                "nationality": "ESP"
+            },
+            {
+                "number": 11,
+                "name": "Dodi Lukebakio",
+                "position": "MF",
+                "birth_year": 1997,
+                "previous_club": "Hertha Berlin",
+                "nationality": "BEL"
+            },
+            {
+                "number": 17,
+                "name": "Erik Lamela",
+                "position": "MF",
+                "birth_year": 1992,
+                "previous_club": "Tottenham H",
+                "nationality": "ARG"
+            },
+            {
+                "number": 21,
+                "name": "Óliver Torres",
+                "position": "MF",
+                "birth_year": 1994,
+                "previous_club": "FC Porto",
+                "nationality": "ESP"
+            },
+            {
+                "number": 24,
+                "name": "Boubakary Soumaré",
+                "position": "MF",
+                "birth_year": 1999,
+                "previous_club": "Leicester C",
+                "nationality": "FRA"
+            },
+            {
+                "number": 25,
+                "name": "Adnan Januzaj",
+                "position": "MF",
+                "birth_year": 1995,
+                "previous_club": "Real Sociedad",
+                "nationality": "BEL"
+            },
+            {
+                "number": 9,
+                "name": "Rafa Mir",
+                "position": "FW",
+                "birth_year": 1997,
+                "previous_club": "Wolverhampton W",
+                "nationality": "ESP"
+            },
+            {
+                "number": 10,
+                "name": "Alejo Véliz",
+                "position": "FW",
+                "birth_year": 2003,
+                "previous_club": "Tottenham H",
+                "nationality": "ARG"
+            },
+            {
+                "number": 12,
+                "name": "Mariano",
+                "position": "FW",
+                "birth_year": 1993,
+                "previous_club": "Real Madrid",
+                "nationality": "DOM"
+            },
+            {
+                "number": 15,
+                "name": "Youssef En-Nesyri",
+                "position": "FW",
+                "birth_year": 1997,
+                "previous_club": "Leganés",
+                "nationality": "MAR"
+            },
+            {
+                "number": 20,
+                "name": "Isaac Romero",
+                "position": "FW",
+                "birth_year": 2000,
+                "previous_club": "Sevilla B",
+                "nationality": "ESP"
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "team": "Valencia CF",
+        "league": "Primera División de España 2023/24",
+        "stadium": {
+            "name": "Mestalla",
+            "capacity": 49430
+        },
+        "coach": {
+            "name": "Rubén Baraja",
+            "birth_year": 1975,
+            "nationality": "ESP"
+        },
+        "badge_url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Valenciacf.svg/1200px-Valenciacf.svg.png",
+        "players": [
+            {
+                "number": 1,
+                "name": "Jaume Domènech",
+                "position": "GK",
+                "birth_year": 1990,
+                "previous_club": "Huracán Valencia",
+                "nationality": "ESP"
+            },
+            {
+                "number": 25,
+                "name": "Giorgi Mamardashvili",
+                "position": "GK",
+                "birth_year": 2000,
+                "previous_club": "Dinamo Tbilisi",
+                "nationality": "GEO"
+            },
+            {
+                "number": 3,
+                "name": "Cristhian Mosquera",
+                "position": "DF",
+                "birth_year": 2004,
+                "previous_club": "Valencia B",
+                "nationality": "COL"
+            },
+            {
+                "number": 4,
+                "name": "Mouctar Diakhaby",
+                "position": "DF",
+                "birth_year": 1996,
+                "previous_club": "Lyon",
+                "nationality": "GUI"
+            },
+            {
+                "number": 6,
+                "name": "Hugo Guillamón",
+                "position": "DF",
+                "birth_year": 2000,
+                "previous_club": "Valencia B",
+                "nationality": "ESP"
+            },
+            {
+                "number": 12,
+                "name": "Thierry Correia",
+                "position": "DF",
+                "birth_year": 1999,
+                "previous_club": "Sporting CP",
+                "nationality": "POR"
+            },
+            {
+                "number": 14,
+                "name": "José Luis Gayà",
+                "position": "DF",
+                "birth_year": 1995,
+                "previous_club": "Valencia B",
+                "nationality": "ESP"
+            },
+            {
+                "number": 15,
+                "name": "Cenk Özkaçar",
+                "position": "DF",
+                "birth_year": 2000,
+                "previous_club": "Lyon",
+                "nationality": "TUR"
+            },
+            {
+                "number": 18,
+                "name": "Pepelu",
+                "position": "MF",
+                "birth_year": 1998,
+                "previous_club": "Levante",
+                "nationality": "ESP"
+            },
+            {
+                "number": 19,
+                "name": "Selim Amallah",
+                "position": "MF",
+                "birth_year": 1996,
+                "previous_club": "Valladolid",
+                "nationality": "MAR"
+            },
+            {
+                "number": 10,
+                "name": "André Almeida",
+                "position": "MF",
+                "birth_year": 2000,
+                "previous_club": "Vitória Guimarães",
+                "nationality": "POR"
+            },
+            {
+                "number": 7,
+                "name": "Sergi Canós",
+                "position": "FW",
+                "birth_year": 1997,
+                "previous_club": "Brentford",
+                "nationality": "ESP"
+            },
+            {
+                "number": 9,
+                "name": "Hugo Duro",
+                "position": "FW",
+                "birth_year": 1999,
+                "previous_club": "Getafe",
+                "nationality": "ESP"
+            },
+            {
+                "number": 16,
+                "name": "Diego López",
+                "position": "FW",
+                "birth_year": 2002,
+                "previous_club": "Barcelona B",
+                "nationality": "ESP"
+            },
+            {
+                "number": 17,
+                "name": "Roman Yaremchuk",
+                "position": "FW",
+                "birth_year": 1995,
+                "previous_club": "Club Brugge",
+                "nationality": "UKR"
+            },
+            {
+                "number": 22,
+                "name": "Alberto Marí",
+                "position": "FW",
+                "birth_year": 2001,
+                "previous_club": "Vitoria",
+                "nationality": "ESP"
+            },
+            {
+                "number": 23,
+                "name": "Fran Pérez",
+                "position": "FW",
+                "birth_year": 2002,
+                "previous_club": "Valencia B",
+                "nationality": "ESP"
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "team": "Villarreal CF",
+        "league": "Primera División de España 2023/24",
+        "stadium": {
+            "name": "Estadio de la Cerámica",
+            "capacity": 23500
+        },
+        "coach": {
+            "name": "Marcelino García Toral",
+            "birth_year": 1965,
+            "nationality": "ESP"
+        },
+        "badge_url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b9/Villarreal_CF_logo-en.svg/1200px-Villarreal_CF_logo-en.svg.png",
+        "players": [
+            {
+                "number": 1,
+                "name": "Pepe Reina",
+                "position": "GK",
+                "birth_year": 1982,
+                "previous_club": "Lazio",
+                "nationality": "ESP"
+            },
+            {
+                "number": 13,
+                "name": "Filip Jörgensen",
+                "position": "GK",
+                "birth_year": 2002,
+                "previous_club": "Villarreal B",
+                "nationality": "DEN"
+            },
+            {
+                "number": 3,
+                "name": "Raúl Albiol",
+                "position": "DF",
+                "birth_year": 1985,
+                "previous_club": "Napoli",
+                "nationality": "ESP"
+            },
+            {
+                "number": 5,
+                "name": "Jorge Cuenca",
+                "position": "DF",
+                "birth_year": 1999,
+                "previous_club": "Barcelona B",
+                "nationality": "ESP"
+            },
+            {
+                "number": 8,
+                "name": "Juan Foyth",
+                "position": "DF",
+                "birth_year": 1998,
+                "previous_club": "Tottenham H",
+                "nationality": "ARG"
+            },
+            {
+                "number": 12,
+                "name": "Eric Bailly",
+                "position": "DF",
+                "birth_year": 1994,
+                "previous_club": "Beşiktaş",
+                "nationality": "CIV"
+            },
+            {
+                "number": 18,
+                "name": "Alberto Moreno",
+                "position": "DF",
+                "birth_year": 1992,
+                "previous_club": "Liverpool",
+                "nationality": "ESP"
+            },
+            {
+                "number": 23,
+                "name": "Aïssa Mandi",
+                "position": "DF",
+                "birth_year": 1991,
+                "previous_club": "Betis",
+                "nationality": "ALG"
+            },
+            {
+                "number": 4,
+                "name": "Santi Comesaña",
+                "position": "MF",
+                "birth_year": 1996,
+                "previous_club": "Rayo Vallecano",
+                "nationality": "ESP"
+            },
+            {
+                "number": 6,
+                "name": "Étienne Capoue",
+                "position": "MF",
+                "birth_year": 1988,
+                "previous_club": "Watford",
+                "nationality": "FRA"
+            },
+            {
+                "number": 9,
+                "name": "Gonçalo Guedes",
+                "position": "MF",
+                "birth_year": 1996,
+                "previous_club": "Wolverhampton W",
+                "nationality": "POR"
+            },
+            {
+                "number": 10,
+                "name": "Daniel Parejo",
+                "position": "MF",
+                "birth_year": 1989,
+                "previous_club": "Valencia",
+                "nationality": "ESP"
+            },
+            {
+                "number": 19,
+                "name": "Francis Coquelin",
+                "position": "MF",
+                "birth_year": 1991,
+                "previous_club": "Valencia",
+                "nationality": "FRA"
+            },
+            {
+                "number": 22,
+                "name": "Denis Suárez",
+                "position": "MF",
+                "birth_year": 1994,
+                "previous_club": "Celta Vigo",
+                "nationality": "ESP"
+            },
+            {
+                "number": 7,
+                "name": "Gerard Moreno",
+                "position": "FW",
+                "birth_year": 1992,
+                "previous_club": "Espanyol",
+                "nationality": "ESP"
+            },
+            {
+                "number": 11,
+                "name": "Alexander Sørloth",
+                "position": "FW",
+                "birth_year": 1995,
+                "previous_club": "RB Leipzig",
+                "nationality": "NOR"
+            },
+            {
+                "number": 21,
+                "name": "Yéremi Pino",
+                "position": "FW",
+                "birth_year": 2002,
+                "previous_club": "Villarreal B",
+                "nationality": "ESP"
+            },
+            {
+                "number": 25,
+                "name": "Bertrand Traoré",
+                "position": "FW",
+                "birth_year": 1995,
+                "previous_club": "Aston Villa",
+                "nationality": "BFA"
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "team": "Getafe CF",
+        "league": "Primera División de España 2023/24",
+        "stadium": {
+            "name": "Coliseum Alfonso Pérez",
+            "capacity": 16500
+        },
+        "coach": {
+            "name": "José Bordalás",
+            "birth_year": 1964,
+            "nationality": "ESP"
+        },
+        "badge_url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Getafe_CF_Logo.png",
+        "players": [
+            {
+                "number": 1,
+                "name": "Daniel Fuzato",
+                "position": "GK",
+                "birth_year": 1997,
+                "previous_club": "Ibiza",
+                "nationality": "BRA"
+            },
+            {
+                "number": 13,
+                "name": "David Soria",
+                "position": "GK",
+                "birth_year": 1993,
+                "previous_club": "Sevilla",
+                "nationality": "ESP"
+            },
+            {
+                "number": 2,
+                "name": "Dakonam Djené",
+                "position": "DF",
+                "birth_year": 1991,
+                "previous_club": "Sint-Truiden",
+                "nationality": "TOG"
+            },
+            {
+                "number": 3,
+                "name": "Fabrizio Angileri",
+                "position": "DF",
+                "birth_year": 1994,
+                "previous_club": "River Plate",
+                "nationality": "ARG"
+            },
+            {
+                "number": 4,
+                "name": "Gastón Álvarez",
+                "position": "DF",
+                "birth_year": 2000,
+                "previous_club": "Boston River",
+                "nationality": "URU"
+            },
+            {
+                "number": 6,
+                "name": "Domingos Duarte",
+                "position": "DF",
+                "birth_year": 1995,
+                "previous_club": "Granada",
+                "nationality": "POR"
+            },
+            {
+                "number": 15,
+                "name": "Omar Alderete",
+                "position": "DF",
+                "birth_year": 1996,
+                "previous_club": "Hertha Berlin",
+                "nationality": "PAR"
+            },
+            {
+                "number": 16,
+                "name": "Diego Rico",
+                "position": "DF",
+                "birth_year": 1993,
+                "previous_club": "Real Sociedad",
+                "nationality": "ESP"
+            },
+            {
+                "number": 5,
+                "name": "Luis Milla",
+                "position": "MF",
+                "birth_year": 1994,
+                "previous_club": "Granada",
+                "nationality": "ESP"
+            },
+            {
+                "number": 8,
+                "name": "Mauro Arambarri",
+                "position": "MF",
+                "birth_year": 1995,
+                "previous_club": "Boston River",
+                "nationality": "URU"
+            },
+            {
+                "number": 9,
+                "name": "Óscar",
+                "position": "MF",
+                "birth_year": 1998,
+                "previous_club": "Sevilla",
+                "nationality": "ESP"
+            },
+            {
+                "number": 11,
+                "name": "Carles Aleñà",
+                "position": "MF",
+                "birth_year": 1998,
+                "previous_club": "Barcelona",
+                "nationality": "ESP"
+            },
+            {
+                "number": 20,
+                "name": "Nemanja Maksimović",
+                "position": "MF",
+                "birth_year": 1995,
+                "previous_club": "Valencia",
+                "nationality": "SRB"
+            },
+            {
+                "number": 24,
+                "name": "Ilaix Moriba",
+                "position": "MF",
+                "birth_year": 2003,
+                "previous_club": "RB Leipzig",
+                "nationality": "GUI"
+            },
+            {
+                "number": 7,
+                "name": "Jaime Mata",
+                "position": "FW",
+                "birth_year": 1988,
+                "previous_club": "Valladolid",
+                "nationality": "ESP"
+            },
+            {
+                "number": 12,
+                "name": "Mason Greenwood",
+                "position": "FW",
+                "birth_year": 2001,
+                "previous_club": "Manchester U",
+                "nationality": "ENG"
+            },
+            {
+                "number": 14,
+                "name": "Juanmi Latasa",
+                "position": "FW",
+                "birth_year": 2001,
+                "previous_club": "Real Madrid B",
+                "nationality": "ESP"
+            },
+            {
+                "number": 19,
+                "name": "Borja Mayoral",
+                "position": "FW",
+                "birth_year": 1997,
+                "previous_club": "Real Madrid",
+                "nationality": "ESP"
+            }
+        ]
+    }
+]

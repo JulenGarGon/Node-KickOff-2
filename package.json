@@ -1,0 +1,16 @@
+{
+    "name": "kickoff_node",
+    "version": "1.0.0",
+    "description": "proyecto en node de resultados de futbol",
+    "main": "server.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node server.js"
+    },
+    "author": "Julen García Gonzalo y otro pavo",
+    "license": "ISC",
+    "dependencies": {
+        "body-parser": "^2.2.0",
+        "mongodb": "^6.15.0"
+    }
+}
