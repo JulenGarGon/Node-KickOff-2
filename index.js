@@ -1,31 +1,22 @@
+// Importar módulos
 const express = require('express')
 const app = express()
-const equiposAPI = require('./rutas/equipos');
-const EquiposService = require('./servicios/equiposService')
+const cors = require("cors");
+//require("dotenv").config();
+const PORT = process.env.PORT || 3000;
 
+// Middlewares
+app.use(cors());
 app.use(express.json());
 app.use(express.urlencoded({extended: true}));
 
-const equiposService  = new EquiposService()
 
-/*app.get('/', async function(req, res) {
-    try {
-        const equipos = await equiposService.getEquipos();
-        res.status(200).json(equipos); 
-    } catch (err) {
-        res.status(500).json({
-            error: 'Error al obtener los equipos',
-            details: err.message
-        });
-    }
-});*/
-
-/*app.get('/api/getAll', function(req, res){
-
-})*/
-
+// Importar rutas
+const equiposAPI =require('./routes/equipos')
 equiposAPI(app)
 
-var server = app.listen('8080', () => {
+
+// Iniciar servidor
+var server = app.listen(PORT, () => {
     console.log(`servidor escuchando en ${server.address().port}`)
 })

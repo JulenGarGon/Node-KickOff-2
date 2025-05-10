@@ -1,16 +1,17 @@
 {
-    "name": "kickoff_node",
+    "name": "kickoff",
     "version": "1.0.0",
-    "description": "proyecto en node de resultados de futbol",
+    "description": "kickoff",
     "main": "server.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1",
         "start": "node server.js"
     },
-    "author": "Julen García Gonzalo y otro pavo",
+    "author": "PCB y garciajo",
     "license": "ISC",
     "dependencies": {
-        "body-parser": "^2.2.0",
-        "mongodb": "^6.15.0"
+        "cors": "^2.8.5",
+        "mongod": "^2.0.0",
+        "mongodb": "^6.16.0"
     }
 }
