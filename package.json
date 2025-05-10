@@ -7,10 +7,11 @@
         "test": "echo \"Error: no test specified\" && exit 1",
         "start": "node server.js"
     },
-    "author": "PCB y garciajo",
+    "author": "PCB y JGG",
     "license": "ISC",
     "dependencies": {
         "cors": "^2.8.5",
+        "express": "^4.21.2",
         "mongod": "^2.0.0",
         "mongodb": "^6.16.0"
     }
