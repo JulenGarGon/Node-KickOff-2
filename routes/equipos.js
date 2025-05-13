@@ -7,6 +7,7 @@ function equiposAPI(app){
     app.use('/api/equipos', router)
 
 <<<<<<< HEAD
+<<<<<<< HEAD
     
     router.get('/', async function (req, res, next) {
         try {
@@ -19,6 +20,9 @@ function equiposAPI(app){
             console.log(`se produjo un error ${err}`);
         }
     });
+=======
+    const equiposService = new EquiposService()
+>>>>>>> parent of bd17501 (Modificacion para despliegue)
 =======
     const equiposService = new EquiposService()
 >>>>>>> parent of bd17501 (Modificacion para despliegue)
@@ -80,6 +84,7 @@ function equiposAPI(app){
     
 
 <<<<<<< HEAD
+<<<<<<< HEAD
     
     const frontendPath = path.join(__dirname, '../public/browser');
     app.use(express.static(frontendPath));
@@ -87,6 +92,8 @@ function equiposAPI(app){
     app.get('*', (req, res) => {
         res.sendFile(path.join(frontendPath, 'index.html'));
     });
+=======
+>>>>>>> parent of bd17501 (Modificacion para despliegue)
 =======
 >>>>>>> parent of bd17501 (Modificacion para despliegue)
 }
