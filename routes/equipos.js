@@ -2,13 +2,13 @@ const express = require('express')
 const EquiposService = require('../servicios/equiposService')
 
 
-function equiposAPI(app){
-    const router = express.Router()
-    app.use('/api/equipos', router)
+function equiposAPI(app) {
+    const router = express.Router();
+    app.use('/api/equipos', router);
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-    
+    const equiposService = new EquiposService();
+
+    // === Rutas API ===
     router.get('/', async function (req, res, next) {
         try {
             const equipos = await equiposService.getEquipos();
@@ -20,29 +20,8 @@ function equiposAPI(app){
             console.log(`se produjo un error ${err}`);
         }
     });
-=======
-    const equiposService = new EquiposService()
->>>>>>> parent of bd17501 (Modificacion para despliegue)
-=======
-    const equiposService = new EquiposService()
->>>>>>> parent of bd17501 (Modificacion para despliegue)
 
-
-    router.get('/', async function (req, res, next){
-        try{
-            const equipos = await equiposService.getEquipos()
-            res.status(200).json(
-                {
-                    data: equipos,
-                    message: 'equipos recuperadas con éxito'
-                }
-            )
-        } catch(err){
-            console.log(`se produjo un error ${err}`)
-        } 
-    })
-
-    router.post('/', async function (req, res, next){
+    router.post('/', async function (req, res, next) {
         try {
             const resultado = await equiposService.addEquipo(req.body);
     
@@ -80,22 +59,15 @@ function equiposAPI(app){
             res.status(500).json({ error: 'Error al borrar el equipo' });
         }
     });
-    
-    
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-    
+    // === Servir Angular desde public/browser ===
     const frontendPath = path.join(__dirname, '../public/browser');
     app.use(express.static(frontendPath));
 
+    // Redirige cualquier ruta no-API al index.html
     app.get('*', (req, res) => {
         res.sendFile(path.join(frontendPath, 'index.html'));
     });
-=======
->>>>>>> parent of bd17501 (Modificacion para despliegue)
-=======
->>>>>>> parent of bd17501 (Modificacion para despliegue)
 }
 
 module.exports = equiposAPI
