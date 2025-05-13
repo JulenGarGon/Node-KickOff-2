@@ -8,7 +8,7 @@ function equiposAPI(app) {
 
     const equiposService = new EquiposService();
 
-    // === Rutas API ===
+    
     router.get('/', async function (req, res, next) {
         try {
             const equipos = await equiposService.getEquipos();
@@ -56,11 +56,10 @@ function equiposAPI(app) {
         }
     });
 
-    // === Servir Angular desde public/browser ===
+    
     const frontendPath = path.join(__dirname, '../public/browser');
     app.use(express.static(frontendPath));
 
-    // Redirige cualquier ruta no-API al index.html
     app.get('*', (req, res) => {
         res.sendFile(path.join(frontendPath, 'index.html'));
     });
